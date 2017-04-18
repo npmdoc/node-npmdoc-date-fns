@@ -1,610 +1,639 @@
-<svg height="9710" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="9710" fill="#555" width="720"></rect>
+<svg height="10174" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="10174" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-06 18:41:12 +0000   681189 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-06 18:41:12 +0000    24738 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-06 18:41:12 +0000      171 byte  LICENSE.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-06 18:41:12 +0000     1288 byte  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-06 18:41:12 +0000      716 byte  add_days/index.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-06 18:41:12 +0000       95 byte  add_days/index.js.flow</tspan>
-<tspan x="10" y="122">  6.  2017-04-06 18:41:12 +0000       35 byte  add_days/package.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-06 18:41:12 +0000      776 byte  add_hours/index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-06 18:41:12 +0000       95 byte  add_hours/index.js.flow</tspan>
-<tspan x="10" y="170">  9.  2017-04-06 18:41:12 +0000       35 byte  add_hours/package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-06 18:41:12 +0000      959 byte  add_iso_years/index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-06 18:41:12 +0000       95 byte  add_iso_years/index.js.flow</tspan>
-<tspan x="10" y="218"> 12.  2017-04-06 18:41:12 +0000       35 byte  add_iso_years/package.json</tspan>
-<tspan x="10" y="234"> 13.  2017-04-06 18:41:12 +0000      818 byte  add_milliseconds/index.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-06 18:41:12 +0000       95 byte  add_milliseconds/index.js.flow</tspan>
-<tspan x="10" y="266"> 15.  2017-04-06 18:41:12 +0000       35 byte  add_milliseconds/package.json</tspan>
-<tspan x="10" y="282"> 16.  2017-04-06 18:41:12 +0000      798 byte  add_minutes/index.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-06 18:41:12 +0000       95 byte  add_minutes/index.js.flow</tspan>
-<tspan x="10" y="314"> 18.  2017-04-06 18:41:12 +0000       35 byte  add_minutes/package.json</tspan>
-<tspan x="10" y="330"> 19.  2017-04-06 18:41:12 +0000     1185 byte  add_months/index.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-06 18:41:12 +0000       95 byte  add_months/index.js.flow</tspan>
-<tspan x="10" y="362"> 21.  2017-04-06 18:41:12 +0000       35 byte  add_months/package.json</tspan>
-<tspan x="10" y="378"> 22.  2017-04-06 18:41:12 +0000      748 byte  add_quarters/index.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-06 18:41:12 +0000       95 byte  add_quarters/index.js.flow</tspan>
-<tspan x="10" y="410"> 24.  2017-04-06 18:41:12 +0000       35 byte  add_quarters/package.json</tspan>
-<tspan x="10" y="426"> 25.  2017-04-06 18:41:12 +0000      748 byte  add_seconds/index.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-06 18:41:12 +0000       95 byte  add_seconds/index.js.flow</tspan>
-<tspan x="10" y="458"> 27.  2017-04-06 18:41:12 +0000       35 byte  add_seconds/package.json</tspan>
-<tspan x="10" y="474"> 28.  2017-04-06 18:41:12 +0000      701 byte  add_weeks/index.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-06 18:41:12 +0000       95 byte  add_weeks/index.js.flow</tspan>
-<tspan x="10" y="506"> 30.  2017-04-06 18:41:12 +0000       35 byte  add_weeks/package.json</tspan>
-<tspan x="10" y="522"> 31.  2017-04-06 18:41:12 +0000      691 byte  add_years/index.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-06 18:41:12 +0000       95 byte  add_years/index.js.flow</tspan>
-<tspan x="10" y="554"> 33.  2017-04-06 18:41:12 +0000       35 byte  add_years/package.json</tspan>
-<tspan x="10" y="570"> 34.  2017-04-06 18:41:12 +0000     1823 byte  are_ranges_overlapping/index.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-06 18:41:12 +0000      242 byte  are_ranges_overlapping/index.js.flow</tspan>
-<tspan x="10" y="602"> 36.  2017-04-06 18:41:12 +0000       35 byte  are_ranges_overlapping/package.json</tspan>
-<tspan x="10" y="618"> 37.  2017-04-06 18:41:12 +0000     1502 byte  closest_index_to/index.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-06 18:41:12 +0000      130 byte  closest_index_to/index.js.flow</tspan>
-<tspan x="10" y="650"> 39.  2017-04-06 18:41:12 +0000       35 byte  closest_index_to/package.json</tspan>
-<tspan x="10" y="666"> 40.  2017-04-06 18:41:12 +0000     1438 byte  closest_to/index.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-06 18:41:12 +0000      128 byte  closest_to/index.js.flow</tspan>
-<tspan x="10" y="698"> 42.  2017-04-06 18:41:12 +0000       35 byte  closest_to/package.json</tspan>
-<tspan x="10" y="714"> 43.  2017-04-06 18:41:12 +0000     1302 byte  compare_asc/index.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-06 18:41:12 +0000      120 byte  compare_asc/index.js.flow</tspan>
-<tspan x="10" y="746"> 45.  2017-04-06 18:41:12 +0000       35 byte  compare_asc/package.json</tspan>
-<tspan x="10" y="762"> 46.  2017-04-06 18:41:12 +0000     1384 byte  compare_desc/index.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-06 18:41:12 +0000      120 byte  compare_desc/index.js.flow</tspan>
-<tspan x="10" y="794"> 48.  2017-04-06 18:41:12 +0000       35 byte  compare_desc/package.json</tspan>
-<tspan x="10" y="810"> 49.  2017-04-06 18:41:12 +0000     1425 byte  difference_in_calendar_days/index.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-06 18:41:12 +0000      120 byte  difference_in_calendar_days/index.js.flow</tspan>
-<tspan x="10" y="842"> 51.  2017-04-06 18:41:12 +0000       35 byte  difference_in_calendar_days/package.json</tspan>
-<tspan x="10" y="858"> 52.  2017-04-06 18:41:12 +0000     1545 byte  difference_in_calendar_iso_weeks/index.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-06 18:41:12 +0000      120 byte  difference_in_calendar_iso_weeks/index.js.flow</tspan>
-<tspan x="10" y="890"> 54.  2017-04-06 18:41:12 +0000       35 byte  difference_in_calendar_iso_weeks/package.json</tspan>
-<tspan x="10" y="906"> 55.  2017-04-06 18:41:12 +0000      960 byte  difference_in_calendar_iso_years/index.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-06 18:41:12 +0000      120 byte  difference_in_calendar_iso_years/index.js.flow</tspan>
-<tspan x="10" y="938"> 57.  2017-04-06 18:41:12 +0000       35 byte  difference_in_calendar_iso_years/package.json</tspan>
-<tspan x="10" y="954"> 58.  2017-04-06 18:41:12 +0000      968 byte  difference_in_calendar_months/index.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-06 18:41:12 +0000      120 byte  difference_in_calendar_months/index.js.flow</tspan>
-<tspan x="10" y="986"> 60.  2017-04-06 18:41:12 +0000       35 byte  difference_in_calendar_months/package.json</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-06 18:41:12 +0000     1038 byte  difference_in_calendar_quarters/index.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-06 18:41:12 +0000      120 byte  difference_in_calendar_quarters/index.js.flow</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-06 18:41:12 +0000       35 byte  difference_in_calendar_quarters/package.json</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-06 18:41:12 +0000     1865 byte  difference_in_calendar_weeks/index.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-06 18:41:12 +0000      165 byte  difference_in_calendar_weeks/index.js.flow</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-06 18:41:12 +0000       35 byte  difference_in_calendar_weeks/package.json</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-06 18:41:12 +0000      858 byte  difference_in_calendar_years/index.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-06 18:41:12 +0000      120 byte  difference_in_calendar_years/index.js.flow</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-06 18:41:12 +0000       35 byte  difference_in_calendar_years/package.json</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-06 18:41:12 +0000     1363 byte  difference_in_days/index.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-06 18:41:12 +0000      120 byte  difference_in_days/index.js.flow</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-06 18:41:12 +0000       35 byte  difference_in_days/package.json</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-06 18:41:12 +0000      904 byte  difference_in_hours/index.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-06 18:41:12 +0000      120 byte  difference_in_hours/index.js.flow</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-06 18:41:12 +0000       35 byte  difference_in_hours/package.json</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-06 18:41:12 +0000     1607 byte  difference_in_iso_years/index.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-06 18:41:12 +0000      120 byte  difference_in_iso_years/index.js.flow</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-06 18:41:12 +0000       35 byte  difference_in_iso_years/package.json</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-06 18:41:12 +0000      901 byte  difference_in_milliseconds/index.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-06 18:41:12 +0000      120 byte  difference_in_milliseconds/index.js.flow</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-06 18:41:12 +0000       35 byte  difference_in_milliseconds/package.json</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-06 18:41:12 +0000      930 byte  difference_in_minutes/index.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-06 18:41:12 +0000      120 byte  difference_in_minutes/index.js.flow</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-06 18:41:12 +0000       35 byte  difference_in_minutes/package.json</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-06 18:41:12 +0000     1368 byte  difference_in_months/index.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-06 18:41:12 +0000      120 byte  difference_in_months/index.js.flow</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-06 18:41:12 +0000       35 byte  difference_in_months/package.json</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-06 18:41:12 +0000      849 byte  difference_in_quarters/index.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-06 18:41:12 +0000      120 byte  difference_in_quarters/index.js.flow</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-06 18:41:12 +0000       35 byte  difference_in_quarters/package.json</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-06 18:41:12 +0000      899 byte  difference_in_seconds/index.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-06 18:41:12 +0000      120 byte  difference_in_seconds/index.js.flow</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-06 18:41:12 +0000       35 byte  difference_in_seconds/package.json</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-06 18:41:12 +0000      814 byte  difference_in_weeks/index.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-06 18:41:12 +0000      120 byte  difference_in_weeks/index.js.flow</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-06 18:41:12 +0000       35 byte  difference_in_weeks/package.json</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-06 18:41:12 +0000     1361 byte  difference_in_years/index.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-06 18:41:12 +0000      120 byte  difference_in_years/index.js.flow</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-06 18:41:12 +0000       35 byte  difference_in_years/package.json</tspan>
-<tspan x="10" y="1626">100.  2017-04-06 18:41:12 +0000     7734 byte  distance_in_words/index.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-06 18:41:12 +0000      214 byte  distance_in_words/index.js.flow</tspan>
-<tspan x="10" y="1658">102.  2017-04-06 18:41:12 +0000       35 byte  distance_in_words/package.json</tspan>
-<tspan x="10" y="1674">103.  2017-04-06 18:41:12 +0000     5428 byte  distance_in_words_strict/index.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-06 18:41:12 +0000      278 byte  distance_in_words_strict/index.js.flow</tspan>
-<tspan x="10" y="1706">105.  2017-04-06 18:41:12 +0000       35 byte  distance_in_words_strict/package.json</tspan>
-<tspan x="10" y="1722">106.  2017-04-06 18:41:12 +0000     3958 byte  distance_in_words_to_now/index.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-06 18:41:12 +0000      173 byte  distance_in_words_to_now/index.js.flow</tspan>
-<tspan x="10" y="1754">108.  2017-04-06 18:41:12 +0000       35 byte  distance_in_words_to_now/package.json</tspan>
-<tspan x="10" y="1770">109.  2017-04-06 18:41:12 +0000   206743 byte  docs.json</tspan>
-<tspan x="10" y="1786">110.  2017-04-06 18:41:12 +0000     1369 byte  each_day/index.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-06 18:41:12 +0000      119 byte  each_day/index.js.flow</tspan>
-<tspan x="10" y="1818">112.  2017-04-06 18:41:12 +0000       35 byte  each_day/package.json</tspan>
-<tspan x="10" y="1834">113.  2017-04-06 18:41:12 +0000      639 byte  end_of_day/index.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-06 18:41:12 +0000       77 byte  end_of_day/index.js.flow</tspan>
-<tspan x="10" y="1866">115.  2017-04-06 18:41:12 +0000       35 byte  end_of_day/package.json</tspan>
-<tspan x="10" y="1882">116.  2017-04-06 18:41:12 +0000      646 byte  end_of_hour/index.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-06 18:41:12 +0000       77 byte  end_of_hour/index.js.flow</tspan>
-<tspan x="10" y="1914">118.  2017-04-06 18:41:12 +0000       35 byte  end_of_hour/package.json</tspan>
-<tspan x="10" y="1930">119.  2017-04-06 18:41:12 +0000      736 byte  end_of_iso_week/index.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-06 18:41:12 +0000       77 byte  end_of_iso_week/index.js.flow</tspan>
-<tspan x="10" y="1962">121.  2017-04-06 18:41:12 +0000       35 byte  end_of_iso_week/package.json</tspan>
-<tspan x="10" y="1978">122.  2017-04-06 18:41:12 +0000     1152 byte  end_of_iso_year/index.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-06 18:41:12 +0000       77 byte  end_of_iso_year/index.js.flow</tspan>
-<tspan x="10" y="2010">124.  2017-04-06 18:41:12 +0000       35 byte  end_of_iso_year/package.json</tspan>
-<tspan x="10" y="2026">125.  2017-04-06 18:41:12 +0000      667 byte  end_of_minute/index.js</tspan>
-<tspan x="10" y="2042">126.  2017-04-06 18:41:12 +0000       77 byte  end_of_minute/index.js.flow</tspan>
-<tspan x="10" y="2058">127.  2017-04-06 18:41:12 +0000       35 byte  end_of_minute/package.json</tspan>
-<tspan x="10" y="2074">128.  2017-04-06 18:41:12 +0000      738 byte  end_of_month/index.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-06 18:41:12 +0000       77 byte  end_of_month/index.js.flow</tspan>
-<tspan x="10" y="2106">130.  2017-04-06 18:41:12 +0000       35 byte  end_of_month/package.json</tspan>
-<tspan x="10" y="2122">131.  2017-04-06 18:41:12 +0000      794 byte  end_of_quarter/index.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-06 18:41:12 +0000       77 byte  end_of_quarter/index.js.flow</tspan>
-<tspan x="10" y="2154">133.  2017-04-06 18:41:12 +0000       35 byte  end_of_quarter/package.json</tspan>
-<tspan x="10" y="2170">134.  2017-04-06 18:41:12 +0000      668 byte  end_of_second/index.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-06 18:41:12 +0000       77 byte  end_of_second/index.js.flow</tspan>
-<tspan x="10" y="2202">136.  2017-04-06 18:41:12 +0000       35 byte  end_of_second/package.json</tspan>
-<tspan x="10" y="2218">137.  2017-04-06 18:41:12 +0000      406 byte  end_of_today/index.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-06 18:41:12 +0000       45 byte  end_of_today/index.js.flow</tspan>
-<tspan x="10" y="2250">139.  2017-04-06 18:41:12 +0000       35 byte  end_of_today/package.json</tspan>
-<tspan x="10" y="2266">140.  2017-04-06 18:41:12 +0000      567 byte  end_of_tomorrow/index.js</tspan>
-<tspan x="10" y="2282">141.  2017-04-06 18:41:12 +0000       45 byte  end_of_tomorrow/index.js.flow</tspan>
-<tspan x="10" y="2298">142.  2017-04-06 18:41:12 +0000       35 byte  end_of_tomorrow/package.json</tspan>
-<tspan x="10" y="2314">143.  2017-04-06 18:41:12 +0000     1248 byte  end_of_week/index.js</tspan>
-<tspan x="10" y="2330">144.  2017-04-06 18:41:12 +0000      122 byte  end_of_week/index.js.flow</tspan>
-<tspan x="10" y="2346">145.  2017-04-06 18:41:12 +0000       35 byte  end_of_week/package.json</tspan>
-<tspan x="10" y="2362">146.  2017-04-06 18:41:12 +0000      715 byte  end_of_year/index.js</tspan>
-<tspan x="10" y="2378">147.  2017-04-06 18:41:12 +0000       77 byte  end_of_year/index.js.flow</tspan>
-<tspan x="10" y="2394">148.  2017-04-06 18:41:12 +0000       35 byte  end_of_year/package.json</tspan>
-<tspan x="10" y="2410">149.  2017-04-06 18:41:12 +0000      573 byte  end_of_yesterday/index.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-06 18:41:12 +0000       45 byte  end_of_yesterday/index.js.flow</tspan>
-<tspan x="10" y="2442">151.  2017-04-06 18:41:12 +0000       35 byte  end_of_yesterday/package.json</tspan>
-<tspan x="10" y="2458">152.  2017-04-06 18:41:12 +0000    10134 byte  format/index.js</tspan>
-<tspan x="10" y="2474">153.  2017-04-06 18:41:12 +0000      137 byte  format/index.js.flow</tspan>
-<tspan x="10" y="2490">154.  2017-04-06 18:41:12 +0000       35 byte  format/package.json</tspan>
-<tspan x="10" y="2506">155.  2017-04-06 18:41:12 +0000      557 byte  get_date/index.js</tspan>
-<tspan x="10" y="2522">156.  2017-04-06 18:41:12 +0000       79 byte  get_date/index.js.flow</tspan>
-<tspan x="10" y="2538">157.  2017-04-06 18:41:12 +0000       35 byte  get_date/package.json</tspan>
-<tspan x="10" y="2554">158.  2017-04-06 18:41:12 +0000      538 byte  get_day/index.js</tspan>
-<tspan x="10" y="2570">159.  2017-04-06 18:41:12 +0000       79 byte  get_day/index.js.flow</tspan>
-<tspan x="10" y="2586">160.  2017-04-06 18:41:12 +0000       35 byte  get_day/package.json</tspan>
-<tspan x="10" y="2602">161.  2017-04-06 18:41:12 +0000      755 byte  get_day_of_year/index.js</tspan>
-<tspan x="10" y="2618">162.  2017-04-06 18:41:12 +0000       79 byte  get_day_of_year/index.js.flow</tspan>
-<tspan x="10" y="2634">163.  2017-04-06 18:41:12 +0000       35 byte  get_day_of_year/package.json</tspan>
-<tspan x="10" y="2650">164.  2017-04-06 18:41:12 +0000      773 byte  get_days_in_month/index.js</tspan>
-<tspan x="10" y="2666">165.  2017-04-06 18:41:12 +0000       79 byte  get_days_in_month/index.js.flow</tspan>
-<tspan x="10" y="2682">166.  2017-04-06 18:41:12 +0000       35 byte  get_days_in_month/package.json</tspan>
-<tspan x="10" y="2698">167.  2017-04-06 18:41:12 +0000      558 byte  get_days_in_year/index.js</tspan>
-<tspan x="10" y="2714">168.  2017-04-06 18:41:12 +0000       79 byte  get_days_in_year/index.js.flow</tspan>
-<tspan x="10" y="2730">169.  2017-04-06 18:41:12 +0000       35 byte  get_days_in_year/package.json</tspan>
-<tspan x="10" y="2746">170.  2017-04-06 18:41:12 +0000      531 byte  get_hours/index.js</tspan>
-<tspan x="10" y="2762">171.  2017-04-06 18:41:12 +0000       79 byte  get_hours/index.js.flow</tspan>
-<tspan x="10" y="2778">172.  2017-04-06 18:41:12 +0000       35 byte  get_hours/package.json</tspan>
-<tspan x="10" y="2794">173.  2017-04-06 18:41:12 +0000      718 byte  get_iso_day/index.js</tspan>
-<tspan x="10" y="2810">174.  2017-04-06 18:41:12 +0000       79 byte  get_iso_day/index.js.flow</tspan>
-<tspan x="10" y="2826">175.  2017-04-06 18:41:12 +0000       35 byte  get_iso_day/package.json</tspan>
-<tspan x="10" y="2842">176.  2017-04-06 18:41:12 +0000     1078 byte  get_iso_week/index.js</tspan>
-<tspan x="10" y="2858">177.  2017-04-06 18:41:12 +0000       79 byte  get_iso_week/index.js.flow</tspan>
-<tspan x="10" y="2874">178.  2017-04-06 18:41:12 +0000       35 byte  get_iso_week/package.json</tspan>
-<tspan x="10" y="2890">179.  2017-04-06 18:41:12 +0000     1187 byte  get_iso_weeks_in_year/index.js</tspan>
-<tspan x="10" y="2906">180.  2017-04-06 18:41:12 +0000       79 byte  get_iso_weeks_in_year/index.js.flow</tspan>
-<tspan x="10" y="2922">181.  2017-04-06 18:41:12 +0000       35 byte  get_iso_weeks_in_year/package.json</tspan>
-<tspan x="10" y="2938">182.  2017-04-06 18:41:12 +0000     1412 byte  get_iso_year/index.js</tspan>
-<tspan x="10" y="2954">183.  2017-04-06 18:41:12 +0000       79 byte  get_iso_year/index.js.flow</tspan>
-<tspan x="10" y="2970">184.  2017-04-06 18:41:12 +0000       35 byte  get_iso_year/package.json</tspan>
-<tspan x="10" y="2986">185.  2017-04-06 18:41:12 +0000      621 byte  get_milliseconds/index.js</tspan>
-<tspan x="10" y="3002">186.  2017-04-06 18:41:12 +0000       79 byte  get_milliseconds/index.js.flow</tspan>
-<tspan x="10" y="3018">187.  2017-04-06 18:41:12 +0000       35 byte  get_milliseconds/package.json</tspan>
-<tspan x="10" y="3034">188.  2017-04-06 18:41:12 +0000      556 byte  get_minutes/index.js</tspan>
-<tspan x="10" y="3050">189.  2017-04-06 18:41:12 +0000       79 byte  get_minutes/index.js.flow</tspan>
-<tspan x="10" y="3066">190.  2017-04-06 18:41:12 +0000       35 byte  get_minutes/package.json</tspan>
-<tspan x="10" y="3082">191.  2017-04-06 18:41:12 +0000      512 byte  get_month/index.js</tspan>
-<tspan x="10" y="3098">192.  2017-04-06 18:41:12 +0000       79 byte  get_month/index.js.flow</tspan>
-<tspan x="10" y="3114">193.  2017-04-06 18:41:12 +0000       35 byte  get_month/package.json</tspan>
-<tspan x="10" y="3130">194.  2017-04-06 18:41:12 +0000     2316 byte  get_overlapping_days_in_ranges/index.js</tspan>
-<tspan x="10" y="3146">195.  2017-04-06 18:41:12 +0000      241 byte  get_overlapping_days_in_ranges/index.js.flow</tspan>
-<tspan x="10" y="3162">196.  2017-04-06 18:41:12 +0000       35 byte  get_overlapping_days_in_ranges/package.json</tspan>
-<tspan x="10" y="3178">197.  2017-04-06 18:41:12 +0000      556 byte  get_quarter/index.js</tspan>
-<tspan x="10" y="3194">198.  2017-04-06 18:41:12 +0000       79 byte  get_quarter/index.js.flow</tspan>
-<tspan x="10" y="3210">199.  2017-04-06 18:41:12 +0000       35 byte  get_quarter/package.json</tspan>
-<tspan x="10" y="3226">200.  2017-04-06 18:41:12 +0000      564 byte  get_seconds/index.js</tspan>
-<tspan x="10" y="3242">201.  2017-04-06 18:41:12 +0000       79 byte  get_seconds/index.js.flow</tspan>
-<tspan x="10" y="3258">202.  2017-04-06 18:41:12 +0000       35 byte  get_seconds/package.json</tspan>
-<tspan x="10" y="3274">203.  2017-04-06 18:41:12 +0000      605 byte  get_time/index.js</tspan>
-<tspan x="10" y="3290">204.  2017-04-06 18:41:12 +0000       79 byte  get_time/index.js.flow</tspan>
-<tspan x="10" y="3306">205.  2017-04-06 18:41:12 +0000       35 byte  get_time/package.json</tspan>
-<tspan x="10" y="3322">206.  2017-04-06 18:41:12 +0000      502 byte  get_year/index.js</tspan>
-<tspan x="10" y="3338">207.  2017-04-06 18:41:12 +0000       79 byte  get_year/index.js.flow</tspan>
-<tspan x="10" y="3354">208.  2017-04-06 18:41:12 +0000       35 byte  get_year/package.json</tspan>
-<tspan x="10" y="3370">209.  2017-04-06 18:41:12 +0000     8308 byte  index.js</tspan>
-<tspan x="10" y="3386">210.  2017-04-06 18:41:12 +0000      777 byte  is_after/index.js</tspan>
-<tspan x="10" y="3402">211.  2017-04-06 18:41:12 +0000      121 byte  is_after/index.js.flow</tspan>
-<tspan x="10" y="3418">212.  2017-04-06 18:41:12 +0000       35 byte  is_after/package.json</tspan>
-<tspan x="10" y="3434">213.  2017-04-06 18:41:12 +0000      786 byte  is_before/index.js</tspan>
-<tspan x="10" y="3450">214.  2017-04-06 18:41:12 +0000      121 byte  is_before/index.js.flow</tspan>
-<tspan x="10" y="3466">215.  2017-04-06 18:41:12 +0000       35 byte  is_before/package.json</tspan>
-<tspan x="10" y="3482">216.  2017-04-06 18:41:12 +0000      456 byte  is_date/index.js</tspan>
-<tspan x="10" y="3498">217.  2017-04-06 18:41:12 +0000       65 byte  is_date/index.js.flow</tspan>
-<tspan x="10" y="3514">218.  2017-04-06 18:41:12 +0000       35 byte  is_date/package.json</tspan>
-<tspan x="10" y="3530">219.  2017-04-06 18:41:12 +0000      770 byte  is_equal/index.js</tspan>
-<tspan x="10" y="3546">220.  2017-04-06 18:41:12 +0000      121 byte  is_equal/index.js.flow</tspan>
-<tspan x="10" y="3562">221.  2017-04-06 18:41:12 +0000       35 byte  is_equal/package.json</tspan>
-<tspan x="10" y="3578">222.  2017-04-06 18:41:12 +0000      574 byte  is_first_day_of_month/index.js</tspan>
-<tspan x="10" y="3594">223.  2017-04-06 18:41:12 +0000       80 byte  is_first_day_of_month/index.js.flow</tspan>
-<tspan x="10" y="3610">224.  2017-04-06 18:41:12 +0000       35 byte  is_first_day_of_month/package.json</tspan>
-<tspan x="10" y="3626">225.  2017-04-06 18:41:12 +0000      478 byte  is_friday/index.js</tspan>
-<tspan x="10" y="3642">226.  2017-04-06 18:41:12 +0000       80 byte  is_friday/index.js.flow</tspan>
-<tspan x="10" y="3658">227.  2017-04-06 18:41:12 +0000       35 byte  is_friday/package.json</tspan>
-<tspan x="10" y="3674">228.  2017-04-06 18:41:12 +0000      551 byte  is_future/index.js</tspan>
-<tspan x="10" y="3690">229.  2017-04-06 18:41:12 +0000       80 byte  is_future/index.js.flow</tspan>
-<tspan x="10" y="3706">230.  2017-04-06 18:41:12 +0000       35 byte  is_future/package.json</tspan>
-<tspan x="10" y="3722">231.  2017-04-06 18:41:12 +0000      723 byte  is_last_day_of_month/index.js</tspan>
-<tspan x="10" y="3738">232.  2017-04-06 18:41:12 +0000       80 byte  is_last_day_of_month/index.js.flow</tspan>
-<tspan x="10" y="3754">233.  2017-04-06 18:41:12 +0000       35 byte  is_last_day_of_month/package.json</tspan>
-<tspan x="10" y="3770">234.  2017-04-06 18:41:12 +0000      604 byte  is_leap_year/index.js</tspan>
-<tspan x="10" y="3786">235.  2017-04-06 18:41:12 +0000       80 byte  is_leap_year/index.js.flow</tspan>
-<tspan x="10" y="3802">236.  2017-04-06 18:41:12 +0000       35 byte  is_leap_year/package.json</tspan>
-<tspan x="10" y="3818">237.  2017-04-06 18:41:12 +0000      478 byte  is_monday/index.js</tspan>
-<tspan x="10" y="3834">238.  2017-04-06 18:41:12 +0000       80 byte  is_monday/index.js.flow</tspan>
-<tspan x="10" y="3850">239.  2017-04-06 18:41:12 +0000       35 byte  is_monday/package.json</tspan>
-<tspan x="10" y="3866">240.  2017-04-06 18:41:12 +0000      530 byte  is_past/index.js</tspan>
-<tspan x="10" y="3882">241.  2017-04-06 18:41:12 +0000       80 byte  is_past/index.js.flow</tspan>
-<tspan x="10" y="3898">242.  2017-04-06 18:41:12 +0000       35 byte  is_past/package.json</tspan>
-<tspan x="10" y="3914">243.  2017-04-06 18:41:12 +0000      847 byte  is_same_day/index.js</tspan>
-<tspan x="10" y="3930">244.  2017-04-06 18:41:12 +0000      121 byte  is_same_day/index.js.flow</tspan>
-<tspan x="10" y="3946">245.  2017-04-06 18:41:12 +0000       35 byte  is_same_day/package.json</tspan>
-<tspan x="10" y="3962">246.  2017-04-06 18:41:12 +0000      868 byte  is_same_hour/index.js</tspan>
-<tspan x="10" y="3978">247.  2017-04-06 18:41:12 +0000      121 byte  is_same_hour/index.js.flow</tspan>
-<tspan x="10" y="3994">248.  2017-04-06 18:41:12 +0000       35 byte  is_same_hour/package.json</tspan>
-<tspan x="10" y="4010">249.  2017-04-06 18:41:12 +0000      826 byte  is_same_iso_week/index.js</tspan>
-<tspan x="10" y="4026">250.  2017-04-06 18:41:12 +0000      121 byte  is_same_iso_week/index.js.flow</tspan>
-<tspan x="10" y="4042">251.  2017-04-06 18:41:12 +0000       35 byte  is_same_iso_week/package.json</tspan>
-<tspan x="10" y="4058">252.  2017-04-06 18:41:12 +0000     1033 byte  is_same_iso_year/index.js</tspan>
-<tspan x="10" y="4074">253.  2017-04-06 18:41:12 +0000      121 byte  is_same_iso_year/index.js.flow</tspan>
-<tspan x="10" y="4090">254.  2017-04-06 18:41:12 +0000       35 byte  is_same_iso_year/package.json</tspan>
-<tspan x="10" y="4106">255.  2017-04-06 18:41:12 +0000      916 byte  is_same_minute/index.js</tspan>
-<tspan x="10" y="4122">256.  2017-04-06 18:41:12 +0000      121 byte  is_same_minute/index.js.flow</tspan>
-<tspan x="10" y="4138">257.  2017-04-06 18:41:12 +0000       35 byte  is_same_minute/package.json</tspan>
-<tspan x="10" y="4154">258.  2017-04-06 18:41:12 +0000      841 byte  is_same_month/index.js</tspan>
-<tspan x="10" y="4170">259.  2017-04-06 18:41:12 +0000      121 byte  is_same_month/index.js.flow</tspan>
-<tspan x="10" y="4186">260.  2017-04-06 18:41:12 +0000       35 byte  is_same_month/package.json</tspan>
-<tspan x="10" y="4202">261.  2017-04-06 18:41:12 +0000      894 byte  is_same_quarter/index.js</tspan>
-<tspan x="10" y="4218">262.  2017-04-06 18:41:12 +0000      121 byte  is_same_quarter/index.js.flow</tspan>
-<tspan x="10" y="4234">263.  2017-04-06 18:41:12 +0000       35 byte  is_same_quarter/package.json</tspan>
-<tspan x="10" y="4250">264.  2017-04-06 18:41:12 +0000      933 byte  is_same_second/index.js</tspan>
-<tspan x="10" y="4266">265.  2017-04-06 18:41:12 +0000      121 byte  is_same_second/index.js.flow</tspan>
-<tspan x="10" y="4282">266.  2017-04-06 18:41:12 +0000       35 byte  is_same_second/package.json</tspan>
-<tspan x="10" y="4298">267.  2017-04-06 18:41:12 +0000     1274 byte  is_same_week/index.js</tspan>
-<tspan x="10" y="4314">268.  2017-04-06 18:41:12 +0000      166 byte  is_same_week/index.js.flow</tspan>
-<tspan x="10" y="4330">269.  2017-04-06 18:41:12 +0000       35 byte  is_same_week/package.json</tspan>
-<tspan x="10" y="4346">270.  2017-04-06 18:41:12 +0000      781 byte  is_same_year/index.js</tspan>
-<tspan x="10" y="4362">271.  2017-04-06 18:41:12 +0000      121 byte  is_same_year/index.js.flow</tspan>
-<tspan x="10" y="4378">272.  2017-04-06 18:41:12 +0000       35 byte  is_same_year/package.json</tspan>
-<tspan x="10" y="4394">273.  2017-04-06 18:41:12 +0000      492 byte  is_saturday/index.js</tspan>
-<tspan x="10" y="4410">274.  2017-04-06 18:41:12 +0000       80 byte  is_saturday/index.js.flow</tspan>
-<tspan x="10" y="4426">275.  2017-04-06 18:41:12 +0000       35 byte  is_saturday/package.json</tspan>
-<tspan x="10" y="4442">276.  2017-04-06 18:41:12 +0000      478 byte  is_sunday/index.js</tspan>
-<tspan x="10" y="4458">277.  2017-04-06 18:41:12 +0000       80 byte  is_sunday/index.js.flow</tspan>
-<tspan x="10" y="4474">278.  2017-04-06 18:41:12 +0000       35 byte  is_sunday/package.json</tspan>
-<tspan x="10" y="4490">279.  2017-04-06 18:41:12 +0000      628 byte  is_this_hour/index.js</tspan>
-<tspan x="10" y="4506">280.  2017-04-06 18:41:12 +0000       80 byte  is_this_hour/index.js.flow</tspan>
-<tspan x="10" y="4522">281.  2017-04-06 18:41:12 +0000       35 byte  is_this_hour/package.json</tspan>
-<tspan x="10" y="4538">282.  2017-04-06 18:41:12 +0000      711 byte  is_this_iso_week/index.js</tspan>
-<tspan x="10" y="4554">283.  2017-04-06 18:41:12 +0000       80 byte  is_this_iso_week/index.js.flow</tspan>
-<tspan x="10" y="4570">284.  2017-04-06 18:41:12 +0000       35 byte  is_this_iso_week/package.json</tspan>
-<tspan x="10" y="4586">285.  2017-04-06 18:41:12 +0000      792 byte  is_this_iso_year/index.js</tspan>
-<tspan x="10" y="4602">286.  2017-04-06 18:41:12 +0000       80 byte  is_this_iso_year/index.js.flow</tspan>
-<tspan x="10" y="4618">287.  2017-04-06 18:41:12 +0000       35 byte  is_this_iso_year/package.json</tspan>
-<tspan x="10" y="4634">288.  2017-04-06 18:41:12 +0000      654 byte  is_this_minute/index.js</tspan>
-<tspan x="10" y="4650">289.  2017-04-06 18:41:12 +0000       80 byte  is_this_minute/index.js.flow</tspan>
-<tspan x="10" y="4666">290.  2017-04-06 18:41:12 +0000       35 byte  is_this_minute/package.json</tspan>
-<tspan x="10" y="4682">291.  2017-04-06 18:41:12 +0000      609 byte  is_this_month/index.js</tspan>
-<tspan x="10" y="4698">292.  2017-04-06 18:41:12 +0000       80 byte  is_this_month/index.js.flow</tspan>
-<tspan x="10" y="4714">293.  2017-04-06 18:41:12 +0000       35 byte  is_this_month/package.json</tspan>
-<tspan x="10" y="4730">294.  2017-04-06 18:41:12 +0000      624 byte  is_this_quarter/index.js</tspan>
-<tspan x="10" y="4746">295.  2017-04-06 18:41:12 +0000       80 byte  is_this_quarter/index.js.flow</tspan>
-<tspan x="10" y="4762">296.  2017-04-06 18:41:12 +0000       35 byte  is_this_quarter/package.json</tspan>
-<tspan x="10" y="4778">297.  2017-04-06 18:41:12 +0000      662 byte  is_this_second/index.js</tspan>
-<tspan x="10" y="4794">298.  2017-04-06 18:41:12 +0000       80 byte  is_this_second/index.js.flow</tspan>
-<tspan x="10" y="4810">299.  2017-04-06 18:41:12 +0000       35 byte  is_this_second/package.json</tspan>
-<tspan x="10" y="4826">300.  2017-04-06 18:41:12 +0000      982 byte  is_this_week/index.js</tspan>
-<tspan x="10" y="4842">301.  2017-04-06 18:41:12 +0000      125 byte  is_this_week/index.js.flow</tspan>
-<tspan x="10" y="4858">302.  2017-04-06 18:41:12 +0000       35 byte  is_this_week/package.json</tspan>
-<tspan x="10" y="4874">303.  2017-04-06 18:41:12 +0000      591 byte  is_this_year/index.js</tspan>
-<tspan x="10" y="4890">304.  2017-04-06 18:41:12 +0000       80 byte  is_this_year/index.js.flow</tspan>
-<tspan x="10" y="4906">305.  2017-04-06 18:41:12 +0000       35 byte  is_this_year/package.json</tspan>
-<tspan x="10" y="4922">306.  2017-04-06 18:41:12 +0000      492 byte  is_thursday/index.js</tspan>
-<tspan x="10" y="4938">307.  2017-04-06 18:41:12 +0000       80 byte  is_thursday/index.js.flow</tspan>
-<tspan x="10" y="4954">308.  2017-04-06 18:41:12 +0000       35 byte  is_thursday/package.json</tspan>
-<tspan x="10" y="4970">309.  2017-04-06 18:41:12 +0000      551 byte  is_today/index.js</tspan>
-<tspan x="10" y="4986">310.  2017-04-06 18:41:12 +0000       80 byte  is_today/index.js.flow</tspan>
-<tspan x="10" y="5002">311.  2017-04-06 18:41:12 +0000       35 byte  is_today/package.json</tspan>
-<tspan x="10" y="5018">312.  2017-04-06 18:41:12 +0000      641 byte  is_tomorrow/index.js</tspan>
-<tspan x="10" y="5034">313.  2017-04-06 18:41:12 +0000       80 byte  is_tomorrow/index.js.flow</tspan>
-<tspan x="10" y="5050">314.  2017-04-06 18:41:12 +0000       35 byte  is_tomorrow/package.json</tspan>
-<tspan x="10" y="5066">315.  2017-04-06 18:41:12 +0000      485 byte  is_tuesday/index.js</tspan>
-<tspan x="10" y="5082">316.  2017-04-06 18:41:12 +0000       80 byte  is_tuesday/index.js.flow</tspan>
-<tspan x="10" y="5098">317.  2017-04-06 18:41:12 +0000       35 byte  is_tuesday/package.json</tspan>
-<tspan x="10" y="5114">318.  2017-04-06 18:41:12 +0000      865 byte  is_valid/index.js</tspan>
-<tspan x="10" y="5130">319.  2017-04-06 18:41:12 +0000       62 byte  is_valid/index.js.flow</tspan>
-<tspan x="10" y="5146">320.  2017-04-06 18:41:12 +0000       35 byte  is_valid/package.json</tspan>
-<tspan x="10" y="5162">321.  2017-04-06 18:41:12 +0000      499 byte  is_wednesday/index.js</tspan>
-<tspan x="10" y="5178">322.  2017-04-06 18:41:12 +0000       80 byte  is_wednesday/index.js.flow</tspan>
-<tspan x="10" y="5194">323.  2017-04-06 18:41:12 +0000       35 byte  is_wednesday/package.json</tspan>
-<tspan x="10" y="5210">324.  2017-04-06 18:41:12 +0000      572 byte  is_weekend/index.js</tspan>
-<tspan x="10" y="5226">325.  2017-04-06 18:41:12 +0000       80 byte  is_weekend/index.js.flow</tspan>
-<tspan x="10" y="5242">326.  2017-04-06 18:41:12 +0000       35 byte  is_weekend/package.json</tspan>
-<tspan x="10" y="5258">327.  2017-04-06 18:41:12 +0000     1189 byte  is_within_range/index.js</tspan>
-<tspan x="10" y="5274">328.  2017-04-06 18:41:12 +0000      152 byte  is_within_range/index.js.flow</tspan>
-<tspan x="10" y="5290">329.  2017-04-06 18:41:12 +0000       35 byte  is_within_range/package.json</tspan>
-<tspan x="10" y="5306">330.  2017-04-06 18:41:12 +0000      652 byte  is_yesterday/index.js</tspan>
-<tspan x="10" y="5322">331.  2017-04-06 18:41:12 +0000       80 byte  is_yesterday/index.js.flow</tspan>
-<tspan x="10" y="5338">332.  2017-04-06 18:41:12 +0000       35 byte  is_yesterday/package.json</tspan>
-<tspan x="10" y="5354">333.  2017-04-06 18:41:12 +0000      777 byte  last_day_of_iso_week/index.js</tspan>
-<tspan x="10" y="5370">334.  2017-04-06 18:41:12 +0000       77 byte  last_day_of_iso_week/index.js.flow</tspan>
-<tspan x="10" y="5386">335.  2017-04-06 18:41:12 +0000       35 byte  last_day_of_iso_week/package.json</tspan>
-<tspan x="10" y="5402">336.  2017-04-06 18:41:12 +0000     1119 byte  last_day_of_iso_year/index.js</tspan>
-<tspan x="10" y="5418">337.  2017-04-06 18:41:12 +0000       77 byte  last_day_of_iso_year/index.js.flow</tspan>
-<tspan x="10" y="5434">338.  2017-04-06 18:41:12 +0000       35 byte  last_day_of_iso_year/package.json</tspan>
-<tspan x="10" y="5450">339.  2017-04-06 18:41:12 +0000      761 byte  last_day_of_month/index.js</tspan>
-<tspan x="10" y="5466">340.  2017-04-06 18:41:12 +0000       77 byte  last_day_of_month/index.js.flow</tspan>
-<tspan x="10" y="5482">341.  2017-04-06 18:41:12 +0000       35 byte  last_day_of_month/package.json</tspan>
-<tspan x="10" y="5498">342.  2017-04-06 18:41:12 +0000      817 byte  last_day_of_quarter/index.js</tspan>
-<tspan x="10" y="5514">343.  2017-04-06 18:41:12 +0000       77 byte  last_day_of_quarter/index.js.flow</tspan>
-<tspan x="10" y="5530">344.  2017-04-06 18:41:12 +0000       35 byte  last_day_of_quarter/package.json</tspan>
-<tspan x="10" y="5546">345.  2017-04-06 18:41:12 +0000     1276 byte  last_day_of_week/index.js</tspan>
-<tspan x="10" y="5562">346.  2017-04-06 18:41:12 +0000      122 byte  last_day_of_week/index.js.flow</tspan>
-<tspan x="10" y="5578">347.  2017-04-06 18:41:12 +0000       35 byte  last_day_of_week/package.json</tspan>
-<tspan x="10" y="5594">348.  2017-04-06 18:41:12 +0000      738 byte  last_day_of_year/index.js</tspan>
-<tspan x="10" y="5610">349.  2017-04-06 18:41:12 +0000       77 byte  last_day_of_year/index.js.flow</tspan>
-<tspan x="10" y="5626">350.  2017-04-06 18:41:12 +0000       35 byte  last_day_of_year/package.json</tspan>
-<tspan x="10" y="5642">351.  2017-04-06 18:41:12 +0000      711 byte  locale/_lib/build_formatting_tokens_reg_exp/index\</tspan>
-<tspan x="10" y="5658">.js</tspan>
-<tspan x="10" y="5674">352.  2017-04-06 18:41:12 +0000       38 byte  locale/_lib/package.json</tspan>
-<tspan x="10" y="5690">353.  2017-04-06 18:41:12 +0000     2159 byte  locale/ar/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="5706">354.  2017-04-06 18:41:12 +0000     2699 byte  locale/ar/build_format_locale/index.js</tspan>
-<tspan x="10" y="5722">355.  2017-04-06 18:41:12 +0000      426 byte  locale/ar/index.js</tspan>
-<tspan x="10" y="5738">356.  2017-04-06 18:41:12 +0000       38 byte  locale/ar/package.json</tspan>
-<tspan x="10" y="5754">357.  2017-04-06 18:41:12 +0000     2123 byte  locale/bg/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="5770">358.  2017-04-06 18:41:12 +0000     2656 byte  locale/bg/build_format_locale/index.js</tspan>
-<tspan x="10" y="5786">359.  2017-04-06 18:41:12 +0000      386 byte  locale/bg/index.js</tspan>
-<tspan x="10" y="5802">360.  2017-04-06 18:41:12 +0000       38 byte  locale/bg/package.json</tspan>
-<tspan x="10" y="5818">361.  2017-04-06 18:41:12 +0000     1913 byte  locale/ca/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="5834">362.  2017-04-06 18:41:12 +0000     2440 byte  locale/ca/build_format_locale/index.js</tspan>
-<tspan x="10" y="5850">363.  2017-04-06 18:41:12 +0000      381 byte  locale/ca/index.js</tspan>
-<tspan x="10" y="5866">364.  2017-04-06 18:41:12 +0000       38 byte  locale/ca/package.json</tspan>
-<tspan x="10" y="5882">365.  2017-04-06 18:41:12 +0000     4555 byte  locale/cs/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="5898">366.  2017-04-06 18:41:12 +0000     2334 byte  locale/cs/build_format_locale/index.js</tspan>
-<tspan x="10" y="5914">367.  2017-04-06 18:41:12 +0000      376 byte  locale/cs/index.js</tspan>
-<tspan x="10" y="5930">368.  2017-04-06 18:41:12 +0000       38 byte  locale/cs/package.json</tspan>
-<tspan x="10" y="5946">369.  2017-04-06 18:41:12 +0000     1882 byte  locale/da/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="5962">370.  2017-04-06 18:41:12 +0000     2275 byte  locale/da/build_format_locale/index.js</tspan>
-<tspan x="10" y="5978">371.  2017-04-06 18:41:12 +0000      388 byte  locale/da/index.js</tspan>
-<tspan x="10" y="5994">372.  2017-04-06 18:41:12 +0000       38 byte  locale/da/package.json</tspan>
-<tspan x="10" y="6010">373.  2017-04-06 18:41:12 +0000     3852 byte  locale/de/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6026">374.  2017-04-06 18:41:12 +0000     2646 byte  locale/de/build_format_locale/index.js</tspan>
-<tspan x="10" y="6042">375.  2017-04-06 18:41:12 +0000      439 byte  locale/de/index.js</tspan>
-<tspan x="10" y="6058">376.  2017-04-06 18:41:12 +0000       38 byte  locale/de/package.json</tspan>
-<tspan x="10" y="6074">377.  2017-04-06 18:41:12 +0000     2225 byte  locale/el/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6090">378.  2017-04-06 18:41:12 +0000     3315 byte  locale/el/build_format_locale/index.js</tspan>
-<tspan x="10" y="6106">379.  2017-04-06 18:41:12 +0000      384 byte  locale/el/index.js</tspan>
-<tspan x="10" y="6122">380.  2017-04-06 18:41:12 +0000       38 byte  locale/el/package.json</tspan>
-<tspan x="10" y="6138">381.  2017-04-06 18:41:12 +0000     1875 byte  locale/en/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6154">382.  2017-04-06 18:41:12 +0000     2876 byte  locale/en/build_format_locale/index.js</tspan>
-<tspan x="10" y="6170">383.  2017-04-06 18:41:12 +0000      310 byte  locale/en/index.js</tspan>
-<tspan x="10" y="6186">384.  2017-04-06 18:41:12 +0000       38 byte  locale/en/package.json</tspan>
-<tspan x="10" y="6202">385.  2017-04-06 18:41:12 +0000     1921 byte  locale/eo/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6218">386.  2017-04-06 18:41:12 +0000     2294 byte  locale/eo/build_format_locale/index.js</tspan>
-<tspan x="10" y="6234">387.  2017-04-06 18:41:12 +0000      312 byte  locale/eo/index.js</tspan>
-<tspan x="10" y="6250">388.  2017-04-06 18:41:12 +0000       38 byte  locale/eo/package.json</tspan>
-<tspan x="10" y="6266">389.  2017-04-06 18:41:12 +0000     1917 byte  locale/es/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6282">390.  2017-04-06 18:41:12 +0000     2281 byte  locale/es/build_format_locale/index.js</tspan>
-<tspan x="10" y="6298">391.  2017-04-06 18:41:12 +0000      458 byte  locale/es/index.js</tspan>
-<tspan x="10" y="6314">392.  2017-04-06 18:41:12 +0000       38 byte  locale/es/package.json</tspan>
-<tspan x="10" y="6330">393.  2017-04-06 18:41:12 +0000     2830 byte  locale/fi/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6346">394.  2017-04-06 18:41:12 +0000     2115 byte  locale/fi/build_format_locale/index.js</tspan>
-<tspan x="10" y="6362">395.  2017-04-06 18:41:12 +0000      380 byte  locale/fi/index.js</tspan>
-<tspan x="10" y="6378">396.  2017-04-06 18:41:12 +0000       38 byte  locale/fi/package.json</tspan>
-<tspan x="10" y="6394">397.  2017-04-06 18:41:12 +0000     1908 byte  locale/fil/build_distance_in_words_locale/index.j\</tspan>
-<tspan x="10" y="6410">s</tspan>
-<tspan x="10" y="6426">398.  2017-04-06 18:41:12 +0000     3091 byte  locale/fil/build_format_locale/index.js</tspan>
-<tspan x="10" y="6442">399.  2017-04-06 18:41:12 +0000      392 byte  locale/fil/index.js</tspan>
-<tspan x="10" y="6458">400.  2017-04-06 18:41:12 +0000       38 byte  locale/fil/package.json</tspan>
-<tspan x="10" y="6474">401.  2017-04-06 18:41:12 +0000     1892 byte  locale/fr/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6490">402.  2017-04-06 18:41:12 +0000     3794 byte  locale/fr/build_format_locale/index.js</tspan>
-<tspan x="10" y="6506">403.  2017-04-06 18:41:12 +0000      441 byte  locale/fr/index.js</tspan>
-<tspan x="10" y="6522">404.  2017-04-06 18:41:12 +0000       38 byte  locale/fr/package.json</tspan>
-<tspan x="10" y="6538">405.  2017-04-06 18:41:12 +0000     4353 byte  locale/hr/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6554">406.  2017-04-06 18:41:12 +0000     2934 byte  locale/hr/build_format_locale/index.js</tspan>
-<tspan x="10" y="6570">407.  2017-04-06 18:41:12 +0000      386 byte  locale/hr/index.js</tspan>
-<tspan x="10" y="6586">408.  2017-04-06 18:41:12 +0000       38 byte  locale/hr/package.json</tspan>
-<tspan x="10" y="6602">409.  2017-04-06 18:41:12 +0000     1908 byte  locale/id/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6618">410.  2017-04-06 18:41:12 +0000     2780 byte  locale/id/build_format_locale/index.js</tspan>
-<tspan x="10" y="6634">411.  2017-04-06 18:41:12 +0000      464 byte  locale/id/index.js</tspan>
-<tspan x="10" y="6650">412.  2017-04-06 18:41:12 +0000       38 byte  locale/id/package.json</tspan>
-<tspan x="10" y="6666">413.  2017-04-06 18:41:12 +0000     1949 byte  locale/is/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6682">414.  2017-04-06 18:41:12 +0000     2334 byte  locale/is/build_format_locale/index.js</tspan>
-<tspan x="10" y="6698">415.  2017-04-06 18:41:12 +0000      386 byte  locale/is/index.js</tspan>
-<tspan x="10" y="6714">416.  2017-04-06 18:41:12 +0000       38 byte  locale/is/package.json</tspan>
-<tspan x="10" y="6730">417.  2017-04-06 18:41:12 +0000     1875 byte  locale/it/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6746">418.  2017-04-06 18:41:12 +0000     2292 byte  locale/it/build_format_locale/index.js</tspan>
-<tspan x="10" y="6762">419.  2017-04-06 18:41:12 +0000      396 byte  locale/it/index.js</tspan>
-<tspan x="10" y="6778">420.  2017-04-06 18:41:12 +0000       38 byte  locale/it/package.json</tspan>
-<tspan x="10" y="6794">421.  2017-04-06 18:41:12 +0000     1818 byte  locale/ja/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6810">422.  2017-04-06 18:41:12 +0000     2360 byte  locale/ja/build_format_locale/index.js</tspan>
-<tspan x="10" y="6826">423.  2017-04-06 18:41:12 +0000      454 byte  locale/ja/index.js</tspan>
-<tspan x="10" y="6842">424.  2017-04-06 18:41:12 +0000       38 byte  locale/ja/package.json</tspan>
-<tspan x="10" y="6858">425.  2017-04-06 18:41:12 +0000     1789 byte  locale/ko/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6874">426.  2017-04-06 18:41:12 +0000     2312 byte  locale/ko/build_format_locale/index.js</tspan>
-<tspan x="10" y="6890">427.  2017-04-06 18:41:12 +0000      375 byte  locale/ko/index.js</tspan>
-<tspan x="10" y="6906">428.  2017-04-06 18:41:12 +0000       38 byte  locale/ko/package.json</tspan>
-<tspan x="10" y="6922">429.  2017-04-06 18:41:12 +0000     2161 byte  locale/mk/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="6938">430.  2017-04-06 18:41:12 +0000     2624 byte  locale/mk/build_format_locale/index.js</tspan>
-<tspan x="10" y="6954">431.  2017-04-06 18:41:12 +0000      387 byte  locale/mk/index.js</tspan>
-<tspan x="10" y="6970">432.  2017-04-06 18:41:12 +0000       38 byte  locale/mk/package.json</tspan>
-<tspan x="10" y="6986">433.  2017-04-06 18:41:12 +0000     1903 byte  locale/nb/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7002">434.  2017-04-06 18:41:12 +0000     2287 byte  locale/nb/build_format_locale/index.js</tspan>
-<tspan x="10" y="7018">435.  2017-04-06 18:41:12 +0000      392 byte  locale/nb/index.js</tspan>
-<tspan x="10" y="7034">436.  2017-04-06 18:41:12 +0000       38 byte  locale/nb/package.json</tspan>
-<tspan x="10" y="7050">437.  2017-04-06 18:41:12 +0000     1915 byte  locale/nl/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7066">438.  2017-04-06 18:41:12 +0000     2282 byte  locale/nl/build_format_locale/index.js</tspan>
-<tspan x="10" y="7082">439.  2017-04-06 18:41:12 +0000      460 byte  locale/nl/index.js</tspan>
-<tspan x="10" y="7098">440.  2017-04-06 18:41:12 +0000       38 byte  locale/nl/package.json</tspan>
-<tspan x="10" y="7114">441.  2017-04-06 18:41:12 +0000       35 byte  locale/package.json</tspan>
-<tspan x="10" y="7130">442.  2017-04-06 18:41:12 +0000     3444 byte  locale/pl/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7146">443.  2017-04-06 18:41:12 +0000     2237 byte  locale/pl/build_format_locale/index.js</tspan>
-<tspan x="10" y="7162">444.  2017-04-06 18:41:12 +0000      448 byte  locale/pl/index.js</tspan>
-<tspan x="10" y="7178">445.  2017-04-06 18:41:12 +0000       38 byte  locale/pl/package.json</tspan>
-<tspan x="10" y="7194">446.  2017-04-06 18:41:12 +0000     1932 byte  locale/pt/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7210">447.  2017-04-06 18:41:12 +0000     2308 byte  locale/pt/build_format_locale/index.js</tspan>
-<tspan x="10" y="7226">448.  2017-04-06 18:41:12 +0000      383 byte  locale/pt/index.js</tspan>
-<tspan x="10" y="7242">449.  2017-04-06 18:41:12 +0000       38 byte  locale/pt/package.json</tspan>
-<tspan x="10" y="7258">450.  2017-04-06 18:41:12 +0000     1883 byte  locale/ro/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7274">451.  2017-04-06 18:41:12 +0000     2376 byte  locale/ro/build_format_locale/index.js</tspan>
-<tspan x="10" y="7290">452.  2017-04-06 18:41:12 +0000      383 byte  locale/ro/index.js</tspan>
-<tspan x="10" y="7306">453.  2017-04-06 18:41:12 +0000       38 byte  locale/ro/package.json</tspan>
-<tspan x="10" y="7322">454.  2017-04-06 18:41:12 +0000     7863 byte  locale/ru/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7338">455.  2017-04-06 18:41:12 +0000     3431 byte  locale/ru/build_format_locale/index.js</tspan>
-<tspan x="10" y="7354">456.  2017-04-06 18:41:12 +0000      310 byte  locale/ru/index.js</tspan>
-<tspan x="10" y="7370">457.  2017-04-06 18:41:12 +0000       38 byte  locale/ru/package.json</tspan>
-<tspan x="10" y="7386">458.  2017-04-06 18:41:12 +0000     4559 byte  locale/sk/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7402">459.  2017-04-06 18:41:12 +0000     2287 byte  locale/sk/build_format_locale/index.js</tspan>
-<tspan x="10" y="7418">460.  2017-04-06 18:41:12 +0000      386 byte  locale/sk/index.js</tspan>
-<tspan x="10" y="7434">461.  2017-04-06 18:41:12 +0000       38 byte  locale/sk/package.json</tspan>
-<tspan x="10" y="7450">462.  2017-04-06 18:41:12 +0000     2208 byte  locale/sv/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7466">463.  2017-04-06 18:41:12 +0000     2152 byte  locale/sv/build_format_locale/index.js</tspan>
-<tspan x="10" y="7482">464.  2017-04-06 18:41:12 +0000      379 byte  locale/sv/index.js</tspan>
-<tspan x="10" y="7498">465.  2017-04-06 18:41:12 +0000       38 byte  locale/sv/package.json</tspan>
-<tspan x="10" y="7514">466.  2017-04-06 18:41:12 +0000     2404 byte  locale/th/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7530">467.  2017-04-06 18:41:12 +0000     2109 byte  locale/th/build_format_locale/index.js</tspan>
-<tspan x="10" y="7546">468.  2017-04-06 18:41:12 +0000      390 byte  locale/th/index.js</tspan>
-<tspan x="10" y="7562">469.  2017-04-06 18:41:12 +0000       38 byte  locale/th/package.json</tspan>
-<tspan x="10" y="7578">470.  2017-04-06 18:41:12 +0000     2127 byte  locale/tr/build_distance_in_words_locale/index.js</tspan>
-<tspan x="10" y="7594">471.  2017-04-06 18:41:12 +0000     3182 byte  locale/tr/build_format_locale/index.js</tspan>
-<tspan x="10" y="7610">472.  2017-04-06 18:41:12 +0000      388 byte  locale/tr/index.js</tspan>
-<tspan x="10" y="7626">473.  2017-04-06 18:41:12 +0000       38 byte  locale/tr/package.json</tspan>
-<tspan x="10" y="7642">474.  2017-04-06 18:41:12 +0000     1847 byte  locale/zh_cn/build_distance_in_words_locale/index\</tspan>
-<tspan x="10" y="7658">.js</tspan>
-<tspan x="10" y="7674">475.  2017-04-06 18:41:12 +0000     2347 byte  locale/zh_cn/build_format_locale/index.js</tspan>
-<tspan x="10" y="7690">476.  2017-04-06 18:41:12 +0000      394 byte  locale/zh_cn/index.js</tspan>
-<tspan x="10" y="7706">477.  2017-04-06 18:41:12 +0000       38 byte  locale/zh_cn/package.json</tspan>
-<tspan x="10" y="7722">478.  2017-04-06 18:41:12 +0000     1847 byte  locale/zh_tw/build_distance_in_words_locale/index\</tspan>
-<tspan x="10" y="7738">.js</tspan>
-<tspan x="10" y="7754">479.  2017-04-06 18:41:12 +0000     2347 byte  locale/zh_tw/build_format_locale/index.js</tspan>
-<tspan x="10" y="7770">480.  2017-04-06 18:41:12 +0000      379 byte  locale/zh_tw/index.js</tspan>
-<tspan x="10" y="7786">481.  2017-04-06 18:41:12 +0000       38 byte  locale/zh_tw/package.json</tspan>
-<tspan x="10" y="7802">482.  2017-04-06 18:41:12 +0000      795 byte  max/index.js</tspan>
-<tspan x="10" y="7818">483.  2017-04-06 18:41:12 +0000       85 byte  max/index.js.flow</tspan>
-<tspan x="10" y="7834">484.  2017-04-06 18:41:12 +0000       35 byte  max/package.json</tspan>
-<tspan x="10" y="7850">485.  2017-04-06 18:41:12 +0000      807 byte  min/index.js</tspan>
-<tspan x="10" y="7866">486.  2017-04-06 18:41:12 +0000       85 byte  min/index.js.flow</tspan>
-<tspan x="10" y="7882">487.  2017-04-06 18:41:12 +0000       35 byte  min/package.json</tspan>
-<tspan x="10" y="7898">488.  2017-04-06 18:41:12 +0000     5362 byte  package.json</tspan>
-<tspan x="10" y="7914">489.  2017-04-06 18:41:12 +0000     8318 byte  parse/index.js</tspan>
-<tspan x="10" y="7930">490.  2017-04-06 18:41:12 +0000      133 byte  parse/index.js.flow</tspan>
-<tspan x="10" y="7946">491.  2017-04-06 18:41:12 +0000       35 byte  parse/package.json</tspan>
-<tspan x="10" y="7962">492.  2017-04-06 18:41:12 +0000      740 byte  set_date/index.js</tspan>
-<tspan x="10" y="7978">493.  2017-04-06 18:41:12 +0000       99 byte  set_date/index.js.flow</tspan>
-<tspan x="10" y="7994">494.  2017-04-06 18:41:12 +0000       35 byte  set_date/package.json</tspan>
-<tspan x="10" y="8010">495.  2017-04-06 18:41:12 +0000     1316 byte  set_day/index.js</tspan>
-<tspan x="10" y="8026">496.  2017-04-06 18:41:12 +0000      137 byte  set_day/index.js.flow</tspan>
-<tspan x="10" y="8042">497.  2017-04-06 18:41:12 +0000       35 byte  set_day/package.json</tspan>
-<tspan x="10" y="8058">498.  2017-04-06 18:41:12 +0000      757 byte  set_day_of_year/index.js</tspan>
-<tspan x="10" y="8074">499.  2017-04-06 18:41:12 +0000       98 byte  set_day_of_year/index.js.flow</tspan>
-<tspan x="10" y="8090">500.  2017-04-06 18:41:12 +0000       35 byte  set_day_of_year/package.json</tspan>
-<tspan x="10" y="8106">501.  2017-04-06 18:41:12 +0000      674 byte  set_hours/index.js</tspan>
-<tspan x="10" y="8122">502.  2017-04-06 18:41:12 +0000       94 byte  set_hours/index.js.flow</tspan>
-<tspan x="10" y="8138">503.  2017-04-06 18:41:12 +0000       35 byte  set_hours/package.json</tspan>
-<tspan x="10" y="8154">504.  2017-04-06 18:41:12 +0000      955 byte  set_iso_day/index.js</tspan>
-<tspan x="10" y="8170">505.  2017-04-06 18:41:12 +0000       92 byte  set_iso_day/index.js.flow</tspan>
-<tspan x="10" y="8186">506.  2017-04-06 18:41:12 +0000       35 byte  set_iso_day/package.json</tspan>
-<tspan x="10" y="8202">507.  2017-04-06 18:41:12 +0000      908 byte  set_iso_week/index.js</tspan>
-<tspan x="10" y="8218">508.  2017-04-06 18:41:12 +0000       96 byte  set_iso_week/index.js.flow</tspan>
-<tspan x="10" y="8234">509.  2017-04-06 18:41:12 +0000       35 byte  set_iso_week/package.json</tspan>
-<tspan x="10" y="8250">510.  2017-04-06 18:41:12 +0000     1298 byte  set_iso_year/index.js</tspan>
-<tspan x="10" y="8266">511.  2017-04-06 18:41:12 +0000       96 byte  set_iso_year/index.js.flow</tspan>
-<tspan x="10" y="8282">512.  2017-04-06 18:41:12 +0000       35 byte  set_iso_year/package.json</tspan>
-<tspan x="10" y="8298">513.  2017-04-06 18:41:12 +0000      800 byte  set_milliseconds/index.js</tspan>
-<tspan x="10" y="8314">514.  2017-04-06 18:41:12 +0000      101 byte  set_milliseconds/index.js.flow</tspan>
-<tspan x="10" y="8330">515.  2017-04-06 18:41:12 +0000       35 byte  set_milliseconds/package.json</tspan>
-<tspan x="10" y="8346">516.  2017-04-06 18:41:12 +0000      710 byte  set_minutes/index.js</tspan>
-<tspan x="10" y="8362">517.  2017-04-06 18:41:12 +0000       96 byte  set_minutes/index.js.flow</tspan>
-<tspan x="10" y="8378">518.  2017-04-06 18:41:12 +0000       35 byte  set_minutes/package.json</tspan>
-<tspan x="10" y="8394">519.  2017-04-06 18:41:12 +0000     1105 byte  set_month/index.js</tspan>
-<tspan x="10" y="8410">520.  2017-04-06 18:41:12 +0000       94 byte  set_month/index.js.flow</tspan>
-<tspan x="10" y="8426">521.  2017-04-06 18:41:12 +0000       35 byte  set_month/package.json</tspan>
-<tspan x="10" y="8442">522.  2017-04-06 18:41:12 +0000      847 byte  set_quarter/index.js</tspan>
-<tspan x="10" y="8458">523.  2017-04-06 18:41:12 +0000       96 byte  set_quarter/index.js.flow</tspan>
-<tspan x="10" y="8474">524.  2017-04-06 18:41:12 +0000       35 byte  set_quarter/package.json</tspan>
-<tspan x="10" y="8490">525.  2017-04-06 18:41:12 +0000      710 byte  set_seconds/index.js</tspan>
-<tspan x="10" y="8506">526.  2017-04-06 18:41:12 +0000       96 byte  set_seconds/index.js.flow</tspan>
-<tspan x="10" y="8522">527.  2017-04-06 18:41:12 +0000       35 byte  set_seconds/package.json</tspan>
-<tspan x="10" y="8538">528.  2017-04-06 18:41:12 +0000      653 byte  set_year/index.js</tspan>
-<tspan x="10" y="8554">529.  2017-04-06 18:41:12 +0000       93 byte  set_year/index.js.flow</tspan>
-<tspan x="10" y="8570">530.  2017-04-06 18:41:12 +0000       35 byte  set_year/package.json</tspan>
-<tspan x="10" y="8586">531.  2017-04-06 18:41:12 +0000      644 byte  start_of_day/index.js</tspan>
-<tspan x="10" y="8602">532.  2017-04-06 18:41:12 +0000       77 byte  start_of_day/index.js.flow</tspan>
-<tspan x="10" y="8618">533.  2017-04-06 18:41:12 +0000       35 byte  start_of_day/package.json</tspan>
-<tspan x="10" y="8634">534.  2017-04-06 18:41:12 +0000      652 byte  start_of_hour/index.js</tspan>
-<tspan x="10" y="8650">535.  2017-04-06 18:41:12 +0000       77 byte  start_of_hour/index.js.flow</tspan>
-<tspan x="10" y="8666">536.  2017-04-06 18:41:12 +0000       35 byte  start_of_hour/package.json</tspan>
-<tspan x="10" y="8682">537.  2017-04-06 18:41:12 +0000      752 byte  start_of_iso_week/index.js</tspan>
-<tspan x="10" y="8698">538.  2017-04-06 18:41:12 +0000       77 byte  start_of_iso_week/index.js.flow</tspan>
-<tspan x="10" y="8714">539.  2017-04-06 18:41:12 +0000       35 byte  start_of_iso_week/package.json</tspan>
-<tspan x="10" y="8730">540.  2017-04-06 18:41:12 +0000     1052 byte  start_of_iso_year/index.js</tspan>
-<tspan x="10" y="8746">541.  2017-04-06 18:41:12 +0000       77 byte  start_of_iso_year/index.js.flow</tspan>
-<tspan x="10" y="8762">542.  2017-04-06 18:41:12 +0000       35 byte  start_of_iso_year/package.json</tspan>
-<tspan x="10" y="8778">543.  2017-04-06 18:41:12 +0000      674 byte  start_of_minute/index.js</tspan>
-<tspan x="10" y="8794">544.  2017-04-06 18:41:12 +0000       77 byte  start_of_minute/index.js.flow</tspan>
-<tspan x="10" y="8810">545.  2017-04-06 18:41:12 +0000       35 byte  start_of_minute/package.json</tspan>
-<tspan x="10" y="8826">546.  2017-04-06 18:41:12 +0000      678 byte  start_of_month/index.js</tspan>
-<tspan x="10" y="8842">547.  2017-04-06 18:41:12 +0000       77 byte  start_of_month/index.js.flow</tspan>
-<tspan x="10" y="8858">548.  2017-04-06 18:41:12 +0000       35 byte  start_of_month/package.json</tspan>
-<tspan x="10" y="8874">549.  2017-04-06 18:41:12 +0000      795 byte  start_of_quarter/index.js</tspan>
-<tspan x="10" y="8890">550.  2017-04-06 18:41:12 +0000       77 byte  start_of_quarter/index.js.flow</tspan>
-<tspan x="10" y="8906">551.  2017-04-06 18:41:12 +0000       35 byte  start_of_quarter/package.json</tspan>
-<tspan x="10" y="8922">552.  2017-04-06 18:41:12 +0000      680 byte  start_of_second/index.js</tspan>
-<tspan x="10" y="8938">553.  2017-04-06 18:41:12 +0000       77 byte  start_of_second/index.js.flow</tspan>
-<tspan x="10" y="8954">554.  2017-04-06 18:41:12 +0000       35 byte  start_of_second/package.json</tspan>
-<tspan x="10" y="8970">555.  2017-04-06 18:41:12 +0000      420 byte  start_of_today/index.js</tspan>
-<tspan x="10" y="8986">556.  2017-04-06 18:41:12 +0000       45 byte  start_of_today/index.js.flow</tspan>
-<tspan x="10" y="9002">557.  2017-04-06 18:41:12 +0000       35 byte  start_of_today/package.json</tspan>
-<tspan x="10" y="9018">558.  2017-04-06 18:41:12 +0000      570 byte  start_of_tomorrow/index.js</tspan>
-<tspan x="10" y="9034">559.  2017-04-06 18:41:12 +0000       45 byte  start_of_tomorrow/index.js.flow</tspan>
-<tspan x="10" y="9050">560.  2017-04-06 18:41:12 +0000       35 byte  start_of_tomorrow/package.json</tspan>
-<tspan x="10" y="9066">561.  2017-04-06 18:41:12 +0000     1246 byte  start_of_week/index.js</tspan>
-<tspan x="10" y="9082">562.  2017-04-06 18:41:12 +0000      122 byte  start_of_week/index.js.flow</tspan>
-<tspan x="10" y="9098">563.  2017-04-06 18:41:12 +0000       35 byte  start_of_week/package.json</tspan>
-<tspan x="10" y="9114">564.  2017-04-06 18:41:12 +0000      733 byte  start_of_year/index.js</tspan>
-<tspan x="10" y="9130">565.  2017-04-06 18:41:12 +0000       77 byte  start_of_year/index.js.flow</tspan>
-<tspan x="10" y="9146">566.  2017-04-06 18:41:12 +0000       35 byte  start_of_year/package.json</tspan>
-<tspan x="10" y="9162">567.  2017-04-06 18:41:12 +0000      576 byte  start_of_yesterday/index.js</tspan>
-<tspan x="10" y="9178">568.  2017-04-06 18:41:12 +0000       45 byte  start_of_yesterday/index.js.flow</tspan>
-<tspan x="10" y="9194">569.  2017-04-06 18:41:12 +0000       35 byte  start_of_yesterday/package.json</tspan>
-<tspan x="10" y="9210">570.  2017-04-06 18:41:12 +0000      705 byte  sub_days/index.js</tspan>
-<tspan x="10" y="9226">571.  2017-04-06 18:41:12 +0000       95 byte  sub_days/index.js.flow</tspan>
-<tspan x="10" y="9242">572.  2017-04-06 18:41:12 +0000       35 byte  sub_days/package.json</tspan>
-<tspan x="10" y="9258">573.  2017-04-06 18:41:12 +0000      727 byte  sub_hours/index.js</tspan>
-<tspan x="10" y="9274">574.  2017-04-06 18:41:12 +0000       95 byte  sub_hours/index.js.flow</tspan>
-<tspan x="10" y="9290">575.  2017-04-06 18:41:12 +0000       35 byte  sub_hours/package.json</tspan>
-<tspan x="10" y="9306">576.  2017-04-06 18:41:12 +0000      922 byte  sub_iso_years/index.js</tspan>
-<tspan x="10" y="9322">577.  2017-04-06 18:41:12 +0000       95 byte  sub_iso_years/index.js.flow</tspan>
-<tspan x="10" y="9338">578.  2017-04-06 18:41:12 +0000       35 byte  sub_iso_years/package.json</tspan>
-<tspan x="10" y="9354">579.  2017-04-06 18:41:12 +0000      832 byte  sub_milliseconds/index.js</tspan>
-<tspan x="10" y="9370">580.  2017-04-06 18:41:12 +0000       95 byte  sub_milliseconds/index.js.flow</tspan>
-<tspan x="10" y="9386">581.  2017-04-06 18:41:12 +0000       35 byte  sub_milliseconds/package.json</tspan>
-<tspan x="10" y="9402">582.  2017-04-06 18:41:12 +0000      754 byte  sub_minutes/index.js</tspan>
-<tspan x="10" y="9418">583.  2017-04-06 18:41:12 +0000       95 byte  sub_minutes/index.js.flow</tspan>
-<tspan x="10" y="9434">584.  2017-04-06 18:41:12 +0000       35 byte  sub_minutes/package.json</tspan>
-<tspan x="10" y="9450">585.  2017-04-06 18:41:12 +0000      726 byte  sub_months/index.js</tspan>
-<tspan x="10" y="9466">586.  2017-04-06 18:41:12 +0000       95 byte  sub_months/index.js.flow</tspan>
-<tspan x="10" y="9482">587.  2017-04-06 18:41:12 +0000       35 byte  sub_months/package.json</tspan>
-<tspan x="10" y="9498">588.  2017-04-06 18:41:12 +0000      761 byte  sub_quarters/index.js</tspan>
-<tspan x="10" y="9514">589.  2017-04-06 18:41:12 +0000       95 byte  sub_quarters/index.js.flow</tspan>
-<tspan x="10" y="9530">590.  2017-04-06 18:41:12 +0000       35 byte  sub_quarters/package.json</tspan>
-<tspan x="10" y="9546">591.  2017-04-06 18:41:12 +0000      758 byte  sub_seconds/index.js</tspan>
-<tspan x="10" y="9562">592.  2017-04-06 18:41:12 +0000       95 byte  sub_seconds/index.js.flow</tspan>
-<tspan x="10" y="9578">593.  2017-04-06 18:41:12 +0000       35 byte  sub_seconds/package.json</tspan>
-<tspan x="10" y="9594">594.  2017-04-06 18:41:12 +0000      715 byte  sub_weeks/index.js</tspan>
-<tspan x="10" y="9610">595.  2017-04-06 18:41:12 +0000       95 byte  sub_weeks/index.js.flow</tspan>
-<tspan x="10" y="9626">596.  2017-04-06 18:41:12 +0000       35 byte  sub_weeks/package.json</tspan>
-<tspan x="10" y="9642">597.  2017-04-06 18:41:12 +0000      715 byte  sub_years/index.js</tspan>
-<tspan x="10" y="9658">598.  2017-04-06 18:41:12 +0000       95 byte  sub_years/index.js.flow</tspan>
-<tspan x="10" y="9674">599.  2017-04-06 18:41:12 +0000       35 byte  sub_years/package.json</tspan>
-<tspan x="10" y="9690">600.  2017-04-06 18:41:12 +0000    75940 byte  typings.d.ts</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 20:52:42 +0000   681919 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 20:52:42 +0000    25008 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 20:52:42 +0000      171 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 20:52:42 +0000     1288 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 20:52:42 +0000      716 bytes  add_days/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 20:52:42 +0000       95 bytes  add_days/index.js.flow</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 20:52:42 +0000       35 bytes  add_days/package.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 20:52:42 +0000      776 bytes  add_hours/index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 20:52:42 +0000       95 bytes  add_hours/index.js.flow</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 20:52:42 +0000       35 bytes  add_hours/package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 20:52:42 +0000      959 bytes  add_iso_years/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 20:52:42 +0000       95 bytes  add_iso_years/index.js.flow</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 20:52:42 +0000       35 bytes  add_iso_years/package.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 20:52:42 +0000      818 bytes  add_milliseconds/index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 20:52:42 +0000       95 bytes  add_milliseconds/index.js.flow</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 20:52:42 +0000       35 bytes  add_milliseconds/package.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 20:52:42 +0000      798 bytes  add_minutes/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 20:52:42 +0000       95 bytes  add_minutes/index.js.flow</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 20:52:42 +0000       35 bytes  add_minutes/package.json</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 20:52:42 +0000     1185 bytes  add_months/index.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 20:52:42 +0000       95 bytes  add_months/index.js.flow</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 20:52:42 +0000       35 bytes  add_months/package.json</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 20:52:42 +0000      748 bytes  add_quarters/index.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 20:52:42 +0000       95 bytes  add_quarters/index.js.flow</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 20:52:42 +0000       35 bytes  add_quarters/package.json</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 20:52:42 +0000      748 bytes  add_seconds/index.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 20:52:42 +0000       95 bytes  add_seconds/index.js.flow</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 20:52:42 +0000       35 bytes  add_seconds/package.json</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 20:52:42 +0000      701 bytes  add_weeks/index.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 20:52:42 +0000       95 bytes  add_weeks/index.js.flow</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 20:52:42 +0000       35 bytes  add_weeks/package.json</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 20:52:42 +0000      691 bytes  add_years/index.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 20:52:42 +0000       95 bytes  add_years/index.js.flow</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 20:52:42 +0000       35 bytes  add_years/package.json</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 20:52:42 +0000     1823 bytes  are_ranges_overlapping/index.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 20:52:42 +0000      242 bytes  are_ranges_overlapping/index.js.flow</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 20:52:42 +0000       35 bytes  are_ranges_overlapping/package.json</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 20:52:42 +0000     1502 bytes  closest_index_to/index.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 20:52:42 +0000      130 bytes  closest_index_to/index.js.flow</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 20:52:42 +0000       35 bytes  closest_index_to/package.json</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 20:52:42 +0000     1438 bytes  closest_to/index.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 20:52:42 +0000      128 bytes  closest_to/index.js.flow</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 20:52:42 +0000       35 bytes  closest_to/package.json</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 20:52:42 +0000     1302 bytes  compare_asc/index.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 20:52:42 +0000      120 bytes  compare_asc/index.js.flow</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 20:52:42 +0000       35 bytes  compare_asc/package.json</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 20:52:42 +0000     1384 bytes  compare_desc/index.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 20:52:42 +0000      120 bytes  compare_desc/index.js.flow</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 20:52:42 +0000       35 bytes  compare_desc/package.json</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 20:52:42 +0000     1425 bytes  difference_in_calendar_days/index.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_calendar_days/index.js.flow</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_calendar_days/package.json</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 20:52:42 +0000     1545 bytes  difference_in_calendar_iso_weeks/index.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_calendar_iso_weeks/index.js.flow</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_calendar_iso_weeks/package.json</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 20:52:42 +0000      960 bytes  difference_in_calendar_iso_years/index.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_calendar_iso_years/index.js.flow</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_calendar_iso_years/package.json</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 20:52:42 +0000      968 bytes  difference_in_calendar_months/index.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_calendar_months/index.js.flow</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_calendar_months/package.json</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 20:52:42 +0000     1038 bytes  difference_in_calendar_quarters/index.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_calendar_quarters/index.js.flow</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_calendar_quarters/package.json</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 20:52:42 +0000     1865 bytes  difference_in_calendar_weeks/index.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 20:52:42 +0000      165 bytes  difference_in_calendar_weeks/index.js.flow</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_calendar_weeks/package.json</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 20:52:42 +0000      858 bytes  difference_in_calendar_years/index.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_calendar_years/index.js.flow</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_calendar_years/package.json</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 20:52:42 +0000     1363 bytes  difference_in_days/index.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_days/index.js.flow</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_days/package.json</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 20:52:42 +0000      904 bytes  difference_in_hours/index.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_hours/index.js.flow</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_hours/package.json</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 20:52:42 +0000     1607 bytes  difference_in_iso_years/index.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_iso_years/index.js.flow</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_iso_years/package.json</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 20:52:42 +0000      901 bytes  difference_in_milliseconds/index.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_milliseconds/index.js.flow</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_milliseconds/package.json</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 20:52:42 +0000      930 bytes  difference_in_minutes/index.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_minutes/index.js.flow</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_minutes/package.json</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 20:52:42 +0000     1368 bytes  difference_in_months/index.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_months/index.js.flow</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_months/package.json</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-18 20:52:42 +0000      849 bytes  difference_in_quarters/index.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_quarters/index.js.flow</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_quarters/package.json</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-18 20:52:42 +0000      899 bytes  difference_in_seconds/index.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_seconds/index.js.flow</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_seconds/package.json</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-18 20:52:42 +0000      814 bytes  difference_in_weeks/index.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_weeks/index.js.flow</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_weeks/package.json</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-18 20:52:42 +0000     1361 bytes  difference_in_years/index.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-18 20:52:42 +0000      120 bytes  difference_in_years/index.js.flow</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-18 20:52:42 +0000       35 bytes  difference_in_years/package.json</tspan>
+<tspan x="10" y="1626">100.  2017-04-18 20:52:42 +0000     7734 bytes  distance_in_words/index.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-18 20:52:42 +0000      214 bytes  distance_in_words/index.js.flow</tspan>
+<tspan x="10" y="1658">102.  2017-04-18 20:52:42 +0000       35 bytes  distance_in_words/package.json</tspan>
+<tspan x="10" y="1674">103.  2017-04-18 20:52:42 +0000     5428 bytes  distance_in_words_strict/index.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-18 20:52:42 +0000      278 bytes  distance_in_words_strict/index.js.flow</tspan>
+<tspan x="10" y="1706">105.  2017-04-18 20:52:42 +0000       35 bytes  distance_in_words_strict/package.json</tspan>
+<tspan x="10" y="1722">106.  2017-04-18 20:52:42 +0000     3958 bytes  distance_in_words_to_now/index.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-18 20:52:42 +0000      173 bytes  distance_in_words_to_now/index.js.flow</tspan>
+<tspan x="10" y="1754">108.  2017-04-18 20:52:42 +0000       35 bytes  distance_in_words_to_now/package.json</tspan>
+<tspan x="10" y="1770">109.  2017-04-18 20:52:42 +0000   207063 bytes  docs.json</tspan>
+<tspan x="10" y="1786">110.  2017-04-18 20:52:42 +0000     1369 bytes  each_day/index.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-18 20:52:42 +0000      119 bytes  each_day/index.js.flow</tspan>
+<tspan x="10" y="1818">112.  2017-04-18 20:52:42 +0000       35 bytes  each_day/package.json</tspan>
+<tspan x="10" y="1834">113.  2017-04-18 20:52:42 +0000      639 bytes  end_of_day/index.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-18 20:52:42 +0000       77 bytes  end_of_day/index.js.flow</tspan>
+<tspan x="10" y="1866">115.  2017-04-18 20:52:42 +0000       35 bytes  end_of_day/package.json</tspan>
+<tspan x="10" y="1882">116.  2017-04-18 20:52:42 +0000      646 bytes  end_of_hour/index.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-18 20:52:42 +0000       77 bytes  end_of_hour/index.js.flow</tspan>
+<tspan x="10" y="1914">118.  2017-04-18 20:52:42 +0000       35 bytes  end_of_hour/package.json</tspan>
+<tspan x="10" y="1930">119.  2017-04-18 20:52:42 +0000      736 bytes  end_of_iso_week/index.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-18 20:52:42 +0000       77 bytes  end_of_iso_week/index.js.flow</tspan>
+<tspan x="10" y="1962">121.  2017-04-18 20:52:42 +0000       35 bytes  end_of_iso_week/package.json</tspan>
+<tspan x="10" y="1978">122.  2017-04-18 20:52:42 +0000     1152 bytes  end_of_iso_year/index.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-18 20:52:42 +0000       77 bytes  end_of_iso_year/index.js.flow</tspan>
+<tspan x="10" y="2010">124.  2017-04-18 20:52:42 +0000       35 bytes  end_of_iso_year/package.json</tspan>
+<tspan x="10" y="2026">125.  2017-04-18 20:52:42 +0000      667 bytes  end_of_minute/index.js</tspan>
+<tspan x="10" y="2042">126.  2017-04-18 20:52:42 +0000       77 bytes  end_of_minute/index.js.flow</tspan>
+<tspan x="10" y="2058">127.  2017-04-18 20:52:42 +0000       35 bytes  end_of_minute/package.json</tspan>
+<tspan x="10" y="2074">128.  2017-04-18 20:52:42 +0000      738 bytes  end_of_month/index.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-18 20:52:42 +0000       77 bytes  end_of_month/index.js.flow</tspan>
+<tspan x="10" y="2106">130.  2017-04-18 20:52:42 +0000       35 bytes  end_of_month/package.json</tspan>
+<tspan x="10" y="2122">131.  2017-04-18 20:52:42 +0000      794 bytes  end_of_quarter/index.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-18 20:52:42 +0000       77 bytes  end_of_quarter/index.js.flow</tspan>
+<tspan x="10" y="2154">133.  2017-04-18 20:52:42 +0000       35 bytes  end_of_quarter/package.json</tspan>
+<tspan x="10" y="2170">134.  2017-04-18 20:52:42 +0000      668 bytes  end_of_second/index.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-18 20:52:42 +0000       77 bytes  end_of_second/index.js.flow</tspan>
+<tspan x="10" y="2202">136.  2017-04-18 20:52:42 +0000       35 bytes  end_of_second/package.json</tspan>
+<tspan x="10" y="2218">137.  2017-04-18 20:52:42 +0000      406 bytes  end_of_today/index.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-18 20:52:42 +0000       45 bytes  end_of_today/index.js.flow</tspan>
+<tspan x="10" y="2250">139.  2017-04-18 20:52:42 +0000       35 bytes  end_of_today/package.json</tspan>
+<tspan x="10" y="2266">140.  2017-04-18 20:52:42 +0000      567 bytes  end_of_tomorrow/index.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-18 20:52:42 +0000       45 bytes  end_of_tomorrow/index.js.flow</tspan>
+<tspan x="10" y="2298">142.  2017-04-18 20:52:42 +0000       35 bytes  end_of_tomorrow/package.json</tspan>
+<tspan x="10" y="2314">143.  2017-04-18 20:52:42 +0000     1248 bytes  end_of_week/index.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-18 20:52:42 +0000      122 bytes  end_of_week/index.js.flow</tspan>
+<tspan x="10" y="2346">145.  2017-04-18 20:52:42 +0000       35 bytes  end_of_week/package.json</tspan>
+<tspan x="10" y="2362">146.  2017-04-18 20:52:42 +0000      715 bytes  end_of_year/index.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-18 20:52:42 +0000       77 bytes  end_of_year/index.js.flow</tspan>
+<tspan x="10" y="2394">148.  2017-04-18 20:52:42 +0000       35 bytes  end_of_year/package.json</tspan>
+<tspan x="10" y="2410">149.  2017-04-18 20:52:42 +0000      573 bytes  end_of_yesterday/index.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-18 20:52:42 +0000       45 bytes  end_of_yesterday/index.js.flow</tspan>
+<tspan x="10" y="2442">151.  2017-04-18 20:52:42 +0000       35 bytes  end_of_yesterday/package.json</tspan>
+<tspan x="10" y="2458">152.  2017-04-18 20:52:42 +0000    10134 bytes  format/index.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-18 20:52:42 +0000      137 bytes  format/index.js.flow</tspan>
+<tspan x="10" y="2490">154.  2017-04-18 20:52:42 +0000       35 bytes  format/package.json</tspan>
+<tspan x="10" y="2506">155.  2017-04-18 20:52:42 +0000      557 bytes  get_date/index.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-18 20:52:42 +0000       79 bytes  get_date/index.js.flow</tspan>
+<tspan x="10" y="2538">157.  2017-04-18 20:52:42 +0000       35 bytes  get_date/package.json</tspan>
+<tspan x="10" y="2554">158.  2017-04-18 20:52:42 +0000      538 bytes  get_day/index.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-18 20:52:42 +0000       79 bytes  get_day/index.js.flow</tspan>
+<tspan x="10" y="2586">160.  2017-04-18 20:52:42 +0000       35 bytes  get_day/package.json</tspan>
+<tspan x="10" y="2602">161.  2017-04-18 20:52:42 +0000      755 bytes  get_day_of_year/index.js</tspan>
+<tspan x="10" y="2618">162.  2017-04-18 20:52:42 +0000       79 bytes  get_day_of_year/index.js.flow</tspan>
+<tspan x="10" y="2634">163.  2017-04-18 20:52:42 +0000       35 bytes  get_day_of_year/package.json</tspan>
+<tspan x="10" y="2650">164.  2017-04-18 20:52:42 +0000      773 bytes  get_days_in_month/index.js</tspan>
+<tspan x="10" y="2666">165.  2017-04-18 20:52:42 +0000       79 bytes  get_days_in_month/index.js.flow</tspan>
+<tspan x="10" y="2682">166.  2017-04-18 20:52:42 +0000       35 bytes  get_days_in_month/package.json</tspan>
+<tspan x="10" y="2698">167.  2017-04-18 20:52:42 +0000      558 bytes  get_days_in_year/index.js</tspan>
+<tspan x="10" y="2714">168.  2017-04-18 20:52:42 +0000       79 bytes  get_days_in_year/index.js.flow</tspan>
+<tspan x="10" y="2730">169.  2017-04-18 20:52:42 +0000       35 bytes  get_days_in_year/package.json</tspan>
+<tspan x="10" y="2746">170.  2017-04-18 20:52:42 +0000      531 bytes  get_hours/index.js</tspan>
+<tspan x="10" y="2762">171.  2017-04-18 20:52:42 +0000       79 bytes  get_hours/index.js.flow</tspan>
+<tspan x="10" y="2778">172.  2017-04-18 20:52:42 +0000       35 bytes  get_hours/package.json</tspan>
+<tspan x="10" y="2794">173.  2017-04-18 20:52:42 +0000      718 bytes  get_iso_day/index.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-18 20:52:42 +0000       79 bytes  get_iso_day/index.js.flow</tspan>
+<tspan x="10" y="2826">175.  2017-04-18 20:52:42 +0000       35 bytes  get_iso_day/package.json</tspan>
+<tspan x="10" y="2842">176.  2017-04-18 20:52:42 +0000     1078 bytes  get_iso_week/index.js</tspan>
+<tspan x="10" y="2858">177.  2017-04-18 20:52:42 +0000       79 bytes  get_iso_week/index.js.flow</tspan>
+<tspan x="10" y="2874">178.  2017-04-18 20:52:42 +0000       35 bytes  get_iso_week/package.json</tspan>
+<tspan x="10" y="2890">179.  2017-04-18 20:52:42 +0000     1187 bytes  get_iso_weeks_in_year/index.js</tspan>
+<tspan x="10" y="2906">180.  2017-04-18 20:52:42 +0000       79 bytes  get_iso_weeks_in_year/index.js.flow</tspan>
+<tspan x="10" y="2922">181.  2017-04-18 20:52:42 +0000       35 bytes  get_iso_weeks_in_year/package.json</tspan>
+<tspan x="10" y="2938">182.  2017-04-18 20:52:42 +0000     1412 bytes  get_iso_year/index.js</tspan>
+<tspan x="10" y="2954">183.  2017-04-18 20:52:42 +0000       79 bytes  get_iso_year/index.js.flow</tspan>
+<tspan x="10" y="2970">184.  2017-04-18 20:52:42 +0000       35 bytes  get_iso_year/package.json</tspan>
+<tspan x="10" y="2986">185.  2017-04-18 20:52:42 +0000      621 bytes  get_milliseconds/index.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-18 20:52:42 +0000       79 bytes  get_milliseconds/index.js.flow</tspan>
+<tspan x="10" y="3018">187.  2017-04-18 20:52:42 +0000       35 bytes  get_milliseconds/package.json</tspan>
+<tspan x="10" y="3034">188.  2017-04-18 20:52:42 +0000      556 bytes  get_minutes/index.js</tspan>
+<tspan x="10" y="3050">189.  2017-04-18 20:52:42 +0000       79 bytes  get_minutes/index.js.flow</tspan>
+<tspan x="10" y="3066">190.  2017-04-18 20:52:42 +0000       35 bytes  get_minutes/package.json</tspan>
+<tspan x="10" y="3082">191.  2017-04-18 20:52:42 +0000      512 bytes  get_month/index.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-18 20:52:42 +0000       79 bytes  get_month/index.js.flow</tspan>
+<tspan x="10" y="3114">193.  2017-04-18 20:52:42 +0000       35 bytes  get_month/package.json</tspan>
+<tspan x="10" y="3130">194.  2017-04-18 20:52:42 +0000     2316 bytes  get_overlapping_days_in_ranges/index.js</tspan>
+<tspan x="10" y="3146">195.  2017-04-18 20:52:42 +0000      241 bytes  get_overlapping_days_in_ranges/index.js.flow</tspan>
+<tspan x="10" y="3162">196.  2017-04-18 20:52:42 +0000       35 bytes  get_overlapping_days_in_ranges/package.json</tspan>
+<tspan x="10" y="3178">197.  2017-04-18 20:52:42 +0000      556 bytes  get_quarter/index.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-18 20:52:42 +0000       79 bytes  get_quarter/index.js.flow</tspan>
+<tspan x="10" y="3210">199.  2017-04-18 20:52:42 +0000       35 bytes  get_quarter/package.json</tspan>
+<tspan x="10" y="3226">200.  2017-04-18 20:52:42 +0000      564 bytes  get_seconds/index.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-18 20:52:42 +0000       79 bytes  get_seconds/index.js.flow</tspan>
+<tspan x="10" y="3258">202.  2017-04-18 20:52:42 +0000       35 bytes  get_seconds/package.json</tspan>
+<tspan x="10" y="3274">203.  2017-04-18 20:52:42 +0000      605 bytes  get_time/index.js</tspan>
+<tspan x="10" y="3290">204.  2017-04-18 20:52:42 +0000       79 bytes  get_time/index.js.flow</tspan>
+<tspan x="10" y="3306">205.  2017-04-18 20:52:42 +0000       35 bytes  get_time/package.json</tspan>
+<tspan x="10" y="3322">206.  2017-04-18 20:52:42 +0000      502 bytes  get_year/index.js</tspan>
+<tspan x="10" y="3338">207.  2017-04-18 20:52:42 +0000       79 bytes  get_year/index.js.flow</tspan>
+<tspan x="10" y="3354">208.  2017-04-18 20:52:42 +0000       35 bytes  get_year/package.json</tspan>
+<tspan x="10" y="3370">209.  2017-04-18 20:52:42 +0000     8308 bytes  index.js</tspan>
+<tspan x="10" y="3386">210.  2017-04-18 20:52:42 +0000      777 bytes  is_after/index.js</tspan>
+<tspan x="10" y="3402">211.  2017-04-18 20:52:42 +0000      121 bytes  is_after/index.js.flow</tspan>
+<tspan x="10" y="3418">212.  2017-04-18 20:52:42 +0000       35 bytes  is_after/package.json</tspan>
+<tspan x="10" y="3434">213.  2017-04-18 20:52:42 +0000      786 bytes  is_before/index.js</tspan>
+<tspan x="10" y="3450">214.  2017-04-18 20:52:42 +0000      121 bytes  is_before/index.js.flow</tspan>
+<tspan x="10" y="3466">215.  2017-04-18 20:52:42 +0000       35 bytes  is_before/package.json</tspan>
+<tspan x="10" y="3482">216.  2017-04-18 20:52:42 +0000      456 bytes  is_date/index.js</tspan>
+<tspan x="10" y="3498">217.  2017-04-18 20:52:42 +0000       65 bytes  is_date/index.js.flow</tspan>
+<tspan x="10" y="3514">218.  2017-04-18 20:52:42 +0000       35 bytes  is_date/package.json</tspan>
+<tspan x="10" y="3530">219.  2017-04-18 20:52:42 +0000      770 bytes  is_equal/index.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-18 20:52:42 +0000      121 bytes  is_equal/index.js.flow</tspan>
+<tspan x="10" y="3562">221.  2017-04-18 20:52:42 +0000       35 bytes  is_equal/package.json</tspan>
+<tspan x="10" y="3578">222.  2017-04-18 20:52:42 +0000      574 bytes  is_first_day_of_month/index.js</tspan>
+<tspan x="10" y="3594">223.  2017-04-18 20:52:42 +0000       80 bytes  is_first_day_of_month/index.js.flow</tspan>
+<tspan x="10" y="3610">224.  2017-04-18 20:52:42 +0000       35 bytes  is_first_day_of_month/package.json</tspan>
+<tspan x="10" y="3626">225.  2017-04-18 20:52:42 +0000      478 bytes  is_friday/index.js</tspan>
+<tspan x="10" y="3642">226.  2017-04-18 20:52:42 +0000       80 bytes  is_friday/index.js.flow</tspan>
+<tspan x="10" y="3658">227.  2017-04-18 20:52:42 +0000       35 bytes  is_friday/package.json</tspan>
+<tspan x="10" y="3674">228.  2017-04-18 20:52:42 +0000      551 bytes  is_future/index.js</tspan>
+<tspan x="10" y="3690">229.  2017-04-18 20:52:42 +0000       80 bytes  is_future/index.js.flow</tspan>
+<tspan x="10" y="3706">230.  2017-04-18 20:52:42 +0000       35 bytes  is_future/package.json</tspan>
+<tspan x="10" y="3722">231.  2017-04-18 20:52:42 +0000      723 bytes  is_last_day_of_month/index.js</tspan>
+<tspan x="10" y="3738">232.  2017-04-18 20:52:42 +0000       80 bytes  is_last_day_of_month/index.js.flow</tspan>
+<tspan x="10" y="3754">233.  2017-04-18 20:52:42 +0000       35 bytes  is_last_day_of_month/package.json</tspan>
+<tspan x="10" y="3770">234.  2017-04-18 20:52:42 +0000      604 bytes  is_leap_year/index.js</tspan>
+<tspan x="10" y="3786">235.  2017-04-18 20:52:42 +0000       80 bytes  is_leap_year/index.js.flow</tspan>
+<tspan x="10" y="3802">236.  2017-04-18 20:52:42 +0000       35 bytes  is_leap_year/package.json</tspan>
+<tspan x="10" y="3818">237.  2017-04-18 20:52:42 +0000      478 bytes  is_monday/index.js</tspan>
+<tspan x="10" y="3834">238.  2017-04-18 20:52:42 +0000       80 bytes  is_monday/index.js.flow</tspan>
+<tspan x="10" y="3850">239.  2017-04-18 20:52:42 +0000       35 bytes  is_monday/package.json</tspan>
+<tspan x="10" y="3866">240.  2017-04-18 20:52:42 +0000      530 bytes  is_past/index.js</tspan>
+<tspan x="10" y="3882">241.  2017-04-18 20:52:42 +0000       80 bytes  is_past/index.js.flow</tspan>
+<tspan x="10" y="3898">242.  2017-04-18 20:52:42 +0000       35 bytes  is_past/package.json</tspan>
+<tspan x="10" y="3914">243.  2017-04-18 20:52:42 +0000      847 bytes  is_same_day/index.js</tspan>
+<tspan x="10" y="3930">244.  2017-04-18 20:52:42 +0000      121 bytes  is_same_day/index.js.flow</tspan>
+<tspan x="10" y="3946">245.  2017-04-18 20:52:42 +0000       35 bytes  is_same_day/package.json</tspan>
+<tspan x="10" y="3962">246.  2017-04-18 20:52:42 +0000      868 bytes  is_same_hour/index.js</tspan>
+<tspan x="10" y="3978">247.  2017-04-18 20:52:42 +0000      121 bytes  is_same_hour/index.js.flow</tspan>
+<tspan x="10" y="3994">248.  2017-04-18 20:52:42 +0000       35 bytes  is_same_hour/package.json</tspan>
+<tspan x="10" y="4010">249.  2017-04-18 20:52:42 +0000      826 bytes  is_same_iso_week/index.js</tspan>
+<tspan x="10" y="4026">250.  2017-04-18 20:52:42 +0000      121 bytes  is_same_iso_week/index.js.flow</tspan>
+<tspan x="10" y="4042">251.  2017-04-18 20:52:42 +0000       35 bytes  is_same_iso_week/package.json</tspan>
+<tspan x="10" y="4058">252.  2017-04-18 20:52:42 +0000     1033 bytes  is_same_iso_year/index.js</tspan>
+<tspan x="10" y="4074">253.  2017-04-18 20:52:42 +0000      121 bytes  is_same_iso_year/index.js.flow</tspan>
+<tspan x="10" y="4090">254.  2017-04-18 20:52:42 +0000       35 bytes  is_same_iso_year/package.json</tspan>
+<tspan x="10" y="4106">255.  2017-04-18 20:52:42 +0000      916 bytes  is_same_minute/index.js</tspan>
+<tspan x="10" y="4122">256.  2017-04-18 20:52:42 +0000      121 bytes  is_same_minute/index.js.flow</tspan>
+<tspan x="10" y="4138">257.  2017-04-18 20:52:42 +0000       35 bytes  is_same_minute/package.json</tspan>
+<tspan x="10" y="4154">258.  2017-04-18 20:52:42 +0000      841 bytes  is_same_month/index.js</tspan>
+<tspan x="10" y="4170">259.  2017-04-18 20:52:42 +0000      121 bytes  is_same_month/index.js.flow</tspan>
+<tspan x="10" y="4186">260.  2017-04-18 20:52:42 +0000       35 bytes  is_same_month/package.json</tspan>
+<tspan x="10" y="4202">261.  2017-04-18 20:52:42 +0000      894 bytes  is_same_quarter/index.js</tspan>
+<tspan x="10" y="4218">262.  2017-04-18 20:52:42 +0000      121 bytes  is_same_quarter/index.js.flow</tspan>
+<tspan x="10" y="4234">263.  2017-04-18 20:52:42 +0000       35 bytes  is_same_quarter/package.json</tspan>
+<tspan x="10" y="4250">264.  2017-04-18 20:52:42 +0000      933 bytes  is_same_second/index.js</tspan>
+<tspan x="10" y="4266">265.  2017-04-18 20:52:42 +0000      121 bytes  is_same_second/index.js.flow</tspan>
+<tspan x="10" y="4282">266.  2017-04-18 20:52:42 +0000       35 bytes  is_same_second/package.json</tspan>
+<tspan x="10" y="4298">267.  2017-04-18 20:52:42 +0000     1274 bytes  is_same_week/index.js</tspan>
+<tspan x="10" y="4314">268.  2017-04-18 20:52:42 +0000      166 bytes  is_same_week/index.js.flow</tspan>
+<tspan x="10" y="4330">269.  2017-04-18 20:52:42 +0000       35 bytes  is_same_week/package.json</tspan>
+<tspan x="10" y="4346">270.  2017-04-18 20:52:42 +0000      781 bytes  is_same_year/index.js</tspan>
+<tspan x="10" y="4362">271.  2017-04-18 20:52:42 +0000      121 bytes  is_same_year/index.js.flow</tspan>
+<tspan x="10" y="4378">272.  2017-04-18 20:52:42 +0000       35 bytes  is_same_year/package.json</tspan>
+<tspan x="10" y="4394">273.  2017-04-18 20:52:42 +0000      492 bytes  is_saturday/index.js</tspan>
+<tspan x="10" y="4410">274.  2017-04-18 20:52:42 +0000       80 bytes  is_saturday/index.js.flow</tspan>
+<tspan x="10" y="4426">275.  2017-04-18 20:52:42 +0000       35 bytes  is_saturday/package.json</tspan>
+<tspan x="10" y="4442">276.  2017-04-18 20:52:42 +0000      478 bytes  is_sunday/index.js</tspan>
+<tspan x="10" y="4458">277.  2017-04-18 20:52:42 +0000       80 bytes  is_sunday/index.js.flow</tspan>
+<tspan x="10" y="4474">278.  2017-04-18 20:52:42 +0000       35 bytes  is_sunday/package.json</tspan>
+<tspan x="10" y="4490">279.  2017-04-18 20:52:42 +0000      628 bytes  is_this_hour/index.js</tspan>
+<tspan x="10" y="4506">280.  2017-04-18 20:52:42 +0000       80 bytes  is_this_hour/index.js.flow</tspan>
+<tspan x="10" y="4522">281.  2017-04-18 20:52:42 +0000       35 bytes  is_this_hour/package.json</tspan>
+<tspan x="10" y="4538">282.  2017-04-18 20:52:42 +0000      711 bytes  is_this_iso_week/index.js</tspan>
+<tspan x="10" y="4554">283.  2017-04-18 20:52:42 +0000       80 bytes  is_this_iso_week/index.js.flow</tspan>
+<tspan x="10" y="4570">284.  2017-04-18 20:52:42 +0000       35 bytes  is_this_iso_week/package.json</tspan>
+<tspan x="10" y="4586">285.  2017-04-18 20:52:42 +0000      792 bytes  is_this_iso_year/index.js</tspan>
+<tspan x="10" y="4602">286.  2017-04-18 20:52:42 +0000       80 bytes  is_this_iso_year/index.js.flow</tspan>
+<tspan x="10" y="4618">287.  2017-04-18 20:52:42 +0000       35 bytes  is_this_iso_year/package.json</tspan>
+<tspan x="10" y="4634">288.  2017-04-18 20:52:42 +0000      654 bytes  is_this_minute/index.js</tspan>
+<tspan x="10" y="4650">289.  2017-04-18 20:52:42 +0000       80 bytes  is_this_minute/index.js.flow</tspan>
+<tspan x="10" y="4666">290.  2017-04-18 20:52:42 +0000       35 bytes  is_this_minute/package.json</tspan>
+<tspan x="10" y="4682">291.  2017-04-18 20:52:42 +0000      609 bytes  is_this_month/index.js</tspan>
+<tspan x="10" y="4698">292.  2017-04-18 20:52:42 +0000       80 bytes  is_this_month/index.js.flow</tspan>
+<tspan x="10" y="4714">293.  2017-04-18 20:52:42 +0000       35 bytes  is_this_month/package.json</tspan>
+<tspan x="10" y="4730">294.  2017-04-18 20:52:42 +0000      624 bytes  is_this_quarter/index.js</tspan>
+<tspan x="10" y="4746">295.  2017-04-18 20:52:42 +0000       80 bytes  is_this_quarter/index.js.flow</tspan>
+<tspan x="10" y="4762">296.  2017-04-18 20:52:42 +0000       35 bytes  is_this_quarter/package.json</tspan>
+<tspan x="10" y="4778">297.  2017-04-18 20:52:42 +0000      662 bytes  is_this_second/index.js</tspan>
+<tspan x="10" y="4794">298.  2017-04-18 20:52:42 +0000       80 bytes  is_this_second/index.js.flow</tspan>
+<tspan x="10" y="4810">299.  2017-04-18 20:52:42 +0000       35 bytes  is_this_second/package.json</tspan>
+<tspan x="10" y="4826">300.  2017-04-18 20:52:42 +0000      982 bytes  is_this_week/index.js</tspan>
+<tspan x="10" y="4842">301.  2017-04-18 20:52:42 +0000      125 bytes  is_this_week/index.js.flow</tspan>
+<tspan x="10" y="4858">302.  2017-04-18 20:52:42 +0000       35 bytes  is_this_week/package.json</tspan>
+<tspan x="10" y="4874">303.  2017-04-18 20:52:42 +0000      591 bytes  is_this_year/index.js</tspan>
+<tspan x="10" y="4890">304.  2017-04-18 20:52:42 +0000       80 bytes  is_this_year/index.js.flow</tspan>
+<tspan x="10" y="4906">305.  2017-04-18 20:52:42 +0000       35 bytes  is_this_year/package.json</tspan>
+<tspan x="10" y="4922">306.  2017-04-18 20:52:42 +0000      492 bytes  is_thursday/index.js</tspan>
+<tspan x="10" y="4938">307.  2017-04-18 20:52:42 +0000       80 bytes  is_thursday/index.js.flow</tspan>
+<tspan x="10" y="4954">308.  2017-04-18 20:52:42 +0000       35 bytes  is_thursday/package.json</tspan>
+<tspan x="10" y="4970">309.  2017-04-18 20:52:42 +0000      551 bytes  is_today/index.js</tspan>
+<tspan x="10" y="4986">310.  2017-04-18 20:52:42 +0000       80 bytes  is_today/index.js.flow</tspan>
+<tspan x="10" y="5002">311.  2017-04-18 20:52:42 +0000       35 bytes  is_today/package.json</tspan>
+<tspan x="10" y="5018">312.  2017-04-18 20:52:42 +0000      641 bytes  is_tomorrow/index.js</tspan>
+<tspan x="10" y="5034">313.  2017-04-18 20:52:42 +0000       80 bytes  is_tomorrow/index.js.flow</tspan>
+<tspan x="10" y="5050">314.  2017-04-18 20:52:42 +0000       35 bytes  is_tomorrow/package.json</tspan>
+<tspan x="10" y="5066">315.  2017-04-18 20:52:42 +0000      485 bytes  is_tuesday/index.js</tspan>
+<tspan x="10" y="5082">316.  2017-04-18 20:52:42 +0000       80 bytes  is_tuesday/index.js.flow</tspan>
+<tspan x="10" y="5098">317.  2017-04-18 20:52:42 +0000       35 bytes  is_tuesday/package.json</tspan>
+<tspan x="10" y="5114">318.  2017-04-18 20:52:42 +0000      865 bytes  is_valid/index.js</tspan>
+<tspan x="10" y="5130">319.  2017-04-18 20:52:42 +0000       62 bytes  is_valid/index.js.flow</tspan>
+<tspan x="10" y="5146">320.  2017-04-18 20:52:42 +0000       35 bytes  is_valid/package.json</tspan>
+<tspan x="10" y="5162">321.  2017-04-18 20:52:42 +0000      499 bytes  is_wednesday/index.js</tspan>
+<tspan x="10" y="5178">322.  2017-04-18 20:52:42 +0000       80 bytes  is_wednesday/index.js.flow</tspan>
+<tspan x="10" y="5194">323.  2017-04-18 20:52:42 +0000       35 bytes  is_wednesday/package.json</tspan>
+<tspan x="10" y="5210">324.  2017-04-18 20:52:42 +0000      572 bytes  is_weekend/index.js</tspan>
+<tspan x="10" y="5226">325.  2017-04-18 20:52:42 +0000       80 bytes  is_weekend/index.js.flow</tspan>
+<tspan x="10" y="5242">326.  2017-04-18 20:52:42 +0000       35 bytes  is_weekend/package.json</tspan>
+<tspan x="10" y="5258">327.  2017-04-18 20:52:42 +0000     1189 bytes  is_within_range/index.js</tspan>
+<tspan x="10" y="5274">328.  2017-04-18 20:52:42 +0000      152 bytes  is_within_range/index.js.flow</tspan>
+<tspan x="10" y="5290">329.  2017-04-18 20:52:42 +0000       35 bytes  is_within_range/package.json</tspan>
+<tspan x="10" y="5306">330.  2017-04-18 20:52:42 +0000      652 bytes  is_yesterday/index.js</tspan>
+<tspan x="10" y="5322">331.  2017-04-18 20:52:42 +0000       80 bytes  is_yesterday/index.js.flow</tspan>
+<tspan x="10" y="5338">332.  2017-04-18 20:52:42 +0000       35 bytes  is_yesterday/package.json</tspan>
+<tspan x="10" y="5354">333.  2017-04-18 20:52:42 +0000      777 bytes  last_day_of_iso_week/index.js</tspan>
+<tspan x="10" y="5370">334.  2017-04-18 20:52:42 +0000       77 bytes  last_day_of_iso_week/index.js.flow</tspan>
+<tspan x="10" y="5386">335.  2017-04-18 20:52:42 +0000       35 bytes  last_day_of_iso_week/package.json</tspan>
+<tspan x="10" y="5402">336.  2017-04-18 20:52:42 +0000     1119 bytes  last_day_of_iso_year/index.js</tspan>
+<tspan x="10" y="5418">337.  2017-04-18 20:52:42 +0000       77 bytes  last_day_of_iso_year/index.js.flow</tspan>
+<tspan x="10" y="5434">338.  2017-04-18 20:52:42 +0000       35 bytes  last_day_of_iso_year/package.json</tspan>
+<tspan x="10" y="5450">339.  2017-04-18 20:52:42 +0000      761 bytes  last_day_of_month/index.js</tspan>
+<tspan x="10" y="5466">340.  2017-04-18 20:52:42 +0000       77 bytes  last_day_of_month/index.js.flow</tspan>
+<tspan x="10" y="5482">341.  2017-04-18 20:52:42 +0000       35 bytes  last_day_of_month/package.json</tspan>
+<tspan x="10" y="5498">342.  2017-04-18 20:52:42 +0000      817 bytes  last_day_of_quarter/index.js</tspan>
+<tspan x="10" y="5514">343.  2017-04-18 20:52:42 +0000       77 bytes  last_day_of_quarter/index.js.flow</tspan>
+<tspan x="10" y="5530">344.  2017-04-18 20:52:42 +0000       35 bytes  last_day_of_quarter/package.json</tspan>
+<tspan x="10" y="5546">345.  2017-04-18 20:52:42 +0000     1276 bytes  last_day_of_week/index.js</tspan>
+<tspan x="10" y="5562">346.  2017-04-18 20:52:42 +0000      122 bytes  last_day_of_week/index.js.flow</tspan>
+<tspan x="10" y="5578">347.  2017-04-18 20:52:42 +0000       35 bytes  last_day_of_week/package.json</tspan>
+<tspan x="10" y="5594">348.  2017-04-18 20:52:42 +0000      738 bytes  last_day_of_year/index.js</tspan>
+<tspan x="10" y="5610">349.  2017-04-18 20:52:42 +0000       77 bytes  last_day_of_year/index.js.flow</tspan>
+<tspan x="10" y="5626">350.  2017-04-18 20:52:42 +0000       35 bytes  last_day_of_year/package.json</tspan>
+<tspan x="10" y="5642">351.  2017-04-18 20:52:42 +0000      711 bytes  locale/_lib/build_formatting_tokens_reg_exp/inde\</tspan>
+<tspan x="10" y="5658">x.js</tspan>
+<tspan x="10" y="5674">352.  2017-04-18 20:52:42 +0000       38 bytes  locale/_lib/package.json</tspan>
+<tspan x="10" y="5690">353.  2017-04-18 20:52:42 +0000     2159 bytes  locale/ar/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="5706">s</tspan>
+<tspan x="10" y="5722">354.  2017-04-18 20:52:42 +0000     2699 bytes  locale/ar/build_format_locale/index.js</tspan>
+<tspan x="10" y="5738">355.  2017-04-18 20:52:42 +0000      426 bytes  locale/ar/index.js</tspan>
+<tspan x="10" y="5754">356.  2017-04-18 20:52:42 +0000       38 bytes  locale/ar/package.json</tspan>
+<tspan x="10" y="5770">357.  2017-04-18 20:52:42 +0000     2123 bytes  locale/bg/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="5786">s</tspan>
+<tspan x="10" y="5802">358.  2017-04-18 20:52:42 +0000     2656 bytes  locale/bg/build_format_locale/index.js</tspan>
+<tspan x="10" y="5818">359.  2017-04-18 20:52:42 +0000      386 bytes  locale/bg/index.js</tspan>
+<tspan x="10" y="5834">360.  2017-04-18 20:52:42 +0000       38 bytes  locale/bg/package.json</tspan>
+<tspan x="10" y="5850">361.  2017-04-18 20:52:42 +0000     1913 bytes  locale/ca/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="5866">s</tspan>
+<tspan x="10" y="5882">362.  2017-04-18 20:52:42 +0000     2440 bytes  locale/ca/build_format_locale/index.js</tspan>
+<tspan x="10" y="5898">363.  2017-04-18 20:52:42 +0000      381 bytes  locale/ca/index.js</tspan>
+<tspan x="10" y="5914">364.  2017-04-18 20:52:42 +0000       38 bytes  locale/ca/package.json</tspan>
+<tspan x="10" y="5930">365.  2017-04-18 20:52:42 +0000     4555 bytes  locale/cs/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="5946">s</tspan>
+<tspan x="10" y="5962">366.  2017-04-18 20:52:42 +0000     2334 bytes  locale/cs/build_format_locale/index.js</tspan>
+<tspan x="10" y="5978">367.  2017-04-18 20:52:42 +0000      376 bytes  locale/cs/index.js</tspan>
+<tspan x="10" y="5994">368.  2017-04-18 20:52:42 +0000       38 bytes  locale/cs/package.json</tspan>
+<tspan x="10" y="6010">369.  2017-04-18 20:52:42 +0000     1882 bytes  locale/da/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6026">s</tspan>
+<tspan x="10" y="6042">370.  2017-04-18 20:52:42 +0000     2276 bytes  locale/da/build_format_locale/index.js</tspan>
+<tspan x="10" y="6058">371.  2017-04-18 20:52:42 +0000      440 bytes  locale/da/index.js</tspan>
+<tspan x="10" y="6074">372.  2017-04-18 20:52:42 +0000       38 bytes  locale/da/package.json</tspan>
+<tspan x="10" y="6090">373.  2017-04-18 20:52:42 +0000     3852 bytes  locale/de/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6106">s</tspan>
+<tspan x="10" y="6122">374.  2017-04-18 20:52:42 +0000     2646 bytes  locale/de/build_format_locale/index.js</tspan>
+<tspan x="10" y="6138">375.  2017-04-18 20:52:42 +0000      439 bytes  locale/de/index.js</tspan>
+<tspan x="10" y="6154">376.  2017-04-18 20:52:42 +0000       38 bytes  locale/de/package.json</tspan>
+<tspan x="10" y="6170">377.  2017-04-18 20:52:42 +0000     2225 bytes  locale/el/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6186">s</tspan>
+<tspan x="10" y="6202">378.  2017-04-18 20:52:42 +0000     3315 bytes  locale/el/build_format_locale/index.js</tspan>
+<tspan x="10" y="6218">379.  2017-04-18 20:52:42 +0000      384 bytes  locale/el/index.js</tspan>
+<tspan x="10" y="6234">380.  2017-04-18 20:52:42 +0000       38 bytes  locale/el/package.json</tspan>
+<tspan x="10" y="6250">381.  2017-04-18 20:52:42 +0000     1875 bytes  locale/en/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6266">s</tspan>
+<tspan x="10" y="6282">382.  2017-04-18 20:52:42 +0000     2876 bytes  locale/en/build_format_locale/index.js</tspan>
+<tspan x="10" y="6298">383.  2017-04-18 20:52:42 +0000      310 bytes  locale/en/index.js</tspan>
+<tspan x="10" y="6314">384.  2017-04-18 20:52:42 +0000       38 bytes  locale/en/package.json</tspan>
+<tspan x="10" y="6330">385.  2017-04-18 20:52:42 +0000     1921 bytes  locale/eo/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6346">s</tspan>
+<tspan x="10" y="6362">386.  2017-04-18 20:52:42 +0000     2294 bytes  locale/eo/build_format_locale/index.js</tspan>
+<tspan x="10" y="6378">387.  2017-04-18 20:52:42 +0000      312 bytes  locale/eo/index.js</tspan>
+<tspan x="10" y="6394">388.  2017-04-18 20:52:42 +0000       38 bytes  locale/eo/package.json</tspan>
+<tspan x="10" y="6410">389.  2017-04-18 20:52:42 +0000     1917 bytes  locale/es/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6426">s</tspan>
+<tspan x="10" y="6442">390.  2017-04-18 20:52:42 +0000     2281 bytes  locale/es/build_format_locale/index.js</tspan>
+<tspan x="10" y="6458">391.  2017-04-18 20:52:42 +0000      458 bytes  locale/es/index.js</tspan>
+<tspan x="10" y="6474">392.  2017-04-18 20:52:42 +0000       38 bytes  locale/es/package.json</tspan>
+<tspan x="10" y="6490">393.  2017-04-18 20:52:42 +0000     2830 bytes  locale/fi/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6506">s</tspan>
+<tspan x="10" y="6522">394.  2017-04-18 20:52:42 +0000     2115 bytes  locale/fi/build_format_locale/index.js</tspan>
+<tspan x="10" y="6538">395.  2017-04-18 20:52:42 +0000      380 bytes  locale/fi/index.js</tspan>
+<tspan x="10" y="6554">396.  2017-04-18 20:52:42 +0000       38 bytes  locale/fi/package.json</tspan>
+<tspan x="10" y="6570">397.  2017-04-18 20:52:42 +0000     1908 bytes  locale/fil/build_distance_in_words_locale/index.\</tspan>
+<tspan x="10" y="6586">js</tspan>
+<tspan x="10" y="6602">398.  2017-04-18 20:52:42 +0000     3091 bytes  locale/fil/build_format_locale/index.js</tspan>
+<tspan x="10" y="6618">399.  2017-04-18 20:52:42 +0000      392 bytes  locale/fil/index.js</tspan>
+<tspan x="10" y="6634">400.  2017-04-18 20:52:42 +0000       38 bytes  locale/fil/package.json</tspan>
+<tspan x="10" y="6650">401.  2017-04-18 20:52:42 +0000     1892 bytes  locale/fr/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6666">s</tspan>
+<tspan x="10" y="6682">402.  2017-04-18 20:52:42 +0000     3794 bytes  locale/fr/build_format_locale/index.js</tspan>
+<tspan x="10" y="6698">403.  2017-04-18 20:52:42 +0000      441 bytes  locale/fr/index.js</tspan>
+<tspan x="10" y="6714">404.  2017-04-18 20:52:42 +0000       38 bytes  locale/fr/package.json</tspan>
+<tspan x="10" y="6730">405.  2017-04-18 20:52:42 +0000     4353 bytes  locale/hr/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6746">s</tspan>
+<tspan x="10" y="6762">406.  2017-04-18 20:52:42 +0000     2934 bytes  locale/hr/build_format_locale/index.js</tspan>
+<tspan x="10" y="6778">407.  2017-04-18 20:52:42 +0000      386 bytes  locale/hr/index.js</tspan>
+<tspan x="10" y="6794">408.  2017-04-18 20:52:42 +0000       38 bytes  locale/hr/package.json</tspan>
+<tspan x="10" y="6810">409.  2017-04-18 20:52:42 +0000     1908 bytes  locale/id/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6826">s</tspan>
+<tspan x="10" y="6842">410.  2017-04-18 20:52:42 +0000     2780 bytes  locale/id/build_format_locale/index.js</tspan>
+<tspan x="10" y="6858">411.  2017-04-18 20:52:42 +0000      464 bytes  locale/id/index.js</tspan>
+<tspan x="10" y="6874">412.  2017-04-18 20:52:42 +0000       38 bytes  locale/id/package.json</tspan>
+<tspan x="10" y="6890">413.  2017-04-18 20:52:42 +0000     1949 bytes  locale/is/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6906">s</tspan>
+<tspan x="10" y="6922">414.  2017-04-18 20:52:42 +0000     2334 bytes  locale/is/build_format_locale/index.js</tspan>
+<tspan x="10" y="6938">415.  2017-04-18 20:52:42 +0000      386 bytes  locale/is/index.js</tspan>
+<tspan x="10" y="6954">416.  2017-04-18 20:52:42 +0000       38 bytes  locale/is/package.json</tspan>
+<tspan x="10" y="6970">417.  2017-04-18 20:52:42 +0000     1875 bytes  locale/it/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="6986">s</tspan>
+<tspan x="10" y="7002">418.  2017-04-18 20:52:42 +0000     2292 bytes  locale/it/build_format_locale/index.js</tspan>
+<tspan x="10" y="7018">419.  2017-04-18 20:52:42 +0000      396 bytes  locale/it/index.js</tspan>
+<tspan x="10" y="7034">420.  2017-04-18 20:52:42 +0000       38 bytes  locale/it/package.json</tspan>
+<tspan x="10" y="7050">421.  2017-04-18 20:52:42 +0000     1818 bytes  locale/ja/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7066">s</tspan>
+<tspan x="10" y="7082">422.  2017-04-18 20:52:42 +0000     2360 bytes  locale/ja/build_format_locale/index.js</tspan>
+<tspan x="10" y="7098">423.  2017-04-18 20:52:42 +0000      454 bytes  locale/ja/index.js</tspan>
+<tspan x="10" y="7114">424.  2017-04-18 20:52:42 +0000       38 bytes  locale/ja/package.json</tspan>
+<tspan x="10" y="7130">425.  2017-04-18 20:52:42 +0000     1789 bytes  locale/ko/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7146">s</tspan>
+<tspan x="10" y="7162">426.  2017-04-18 20:52:42 +0000     2312 bytes  locale/ko/build_format_locale/index.js</tspan>
+<tspan x="10" y="7178">427.  2017-04-18 20:52:42 +0000      375 bytes  locale/ko/index.js</tspan>
+<tspan x="10" y="7194">428.  2017-04-18 20:52:42 +0000       38 bytes  locale/ko/package.json</tspan>
+<tspan x="10" y="7210">429.  2017-04-18 20:52:42 +0000     2161 bytes  locale/mk/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7226">s</tspan>
+<tspan x="10" y="7242">430.  2017-04-18 20:52:42 +0000     2624 bytes  locale/mk/build_format_locale/index.js</tspan>
+<tspan x="10" y="7258">431.  2017-04-18 20:52:42 +0000      387 bytes  locale/mk/index.js</tspan>
+<tspan x="10" y="7274">432.  2017-04-18 20:52:42 +0000       38 bytes  locale/mk/package.json</tspan>
+<tspan x="10" y="7290">433.  2017-04-18 20:52:42 +0000     1903 bytes  locale/nb/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7306">s</tspan>
+<tspan x="10" y="7322">434.  2017-04-18 20:52:42 +0000     2287 bytes  locale/nb/build_format_locale/index.js</tspan>
+<tspan x="10" y="7338">435.  2017-04-18 20:52:42 +0000      392 bytes  locale/nb/index.js</tspan>
+<tspan x="10" y="7354">436.  2017-04-18 20:52:42 +0000       38 bytes  locale/nb/package.json</tspan>
+<tspan x="10" y="7370">437.  2017-04-18 20:52:42 +0000     1915 bytes  locale/nl/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7386">s</tspan>
+<tspan x="10" y="7402">438.  2017-04-18 20:52:42 +0000     2282 bytes  locale/nl/build_format_locale/index.js</tspan>
+<tspan x="10" y="7418">439.  2017-04-18 20:52:42 +0000      460 bytes  locale/nl/index.js</tspan>
+<tspan x="10" y="7434">440.  2017-04-18 20:52:42 +0000       38 bytes  locale/nl/package.json</tspan>
+<tspan x="10" y="7450">441.  2017-04-18 20:52:42 +0000       35 bytes  locale/package.json</tspan>
+<tspan x="10" y="7466">442.  2017-04-18 20:52:42 +0000     3444 bytes  locale/pl/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7482">s</tspan>
+<tspan x="10" y="7498">443.  2017-04-18 20:52:42 +0000     2237 bytes  locale/pl/build_format_locale/index.js</tspan>
+<tspan x="10" y="7514">444.  2017-04-18 20:52:42 +0000      448 bytes  locale/pl/index.js</tspan>
+<tspan x="10" y="7530">445.  2017-04-18 20:52:42 +0000       38 bytes  locale/pl/package.json</tspan>
+<tspan x="10" y="7546">446.  2017-04-18 20:52:42 +0000     1932 bytes  locale/pt/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7562">s</tspan>
+<tspan x="10" y="7578">447.  2017-04-18 20:52:42 +0000     2308 bytes  locale/pt/build_format_locale/index.js</tspan>
+<tspan x="10" y="7594">448.  2017-04-18 20:52:42 +0000      383 bytes  locale/pt/index.js</tspan>
+<tspan x="10" y="7610">449.  2017-04-18 20:52:42 +0000       38 bytes  locale/pt/package.json</tspan>
+<tspan x="10" y="7626">450.  2017-04-18 20:52:42 +0000     1883 bytes  locale/ro/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7642">s</tspan>
+<tspan x="10" y="7658">451.  2017-04-18 20:52:42 +0000     2376 bytes  locale/ro/build_format_locale/index.js</tspan>
+<tspan x="10" y="7674">452.  2017-04-18 20:52:42 +0000      383 bytes  locale/ro/index.js</tspan>
+<tspan x="10" y="7690">453.  2017-04-18 20:52:42 +0000       38 bytes  locale/ro/package.json</tspan>
+<tspan x="10" y="7706">454.  2017-04-18 20:52:42 +0000     7863 bytes  locale/ru/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7722">s</tspan>
+<tspan x="10" y="7738">455.  2017-04-18 20:52:42 +0000     3431 bytes  locale/ru/build_format_locale/index.js</tspan>
+<tspan x="10" y="7754">456.  2017-04-18 20:52:42 +0000      310 bytes  locale/ru/index.js</tspan>
+<tspan x="10" y="7770">457.  2017-04-18 20:52:42 +0000       38 bytes  locale/ru/package.json</tspan>
+<tspan x="10" y="7786">458.  2017-04-18 20:52:42 +0000     4559 bytes  locale/sk/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7802">s</tspan>
+<tspan x="10" y="7818">459.  2017-04-18 20:52:42 +0000     2287 bytes  locale/sk/build_format_locale/index.js</tspan>
+<tspan x="10" y="7834">460.  2017-04-18 20:52:42 +0000      386 bytes  locale/sk/index.js</tspan>
+<tspan x="10" y="7850">461.  2017-04-18 20:52:42 +0000       38 bytes  locale/sk/package.json</tspan>
+<tspan x="10" y="7866">462.  2017-04-18 20:52:42 +0000     2208 bytes  locale/sv/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7882">s</tspan>
+<tspan x="10" y="7898">463.  2017-04-18 20:52:42 +0000     2152 bytes  locale/sv/build_format_locale/index.js</tspan>
+<tspan x="10" y="7914">464.  2017-04-18 20:52:42 +0000      379 bytes  locale/sv/index.js</tspan>
+<tspan x="10" y="7930">465.  2017-04-18 20:52:42 +0000       38 bytes  locale/sv/package.json</tspan>
+<tspan x="10" y="7946">466.  2017-04-18 20:52:42 +0000     2404 bytes  locale/th/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="7962">s</tspan>
+<tspan x="10" y="7978">467.  2017-04-18 20:52:42 +0000     2109 bytes  locale/th/build_format_locale/index.js</tspan>
+<tspan x="10" y="7994">468.  2017-04-18 20:52:42 +0000      390 bytes  locale/th/index.js</tspan>
+<tspan x="10" y="8010">469.  2017-04-18 20:52:42 +0000       38 bytes  locale/th/package.json</tspan>
+<tspan x="10" y="8026">470.  2017-04-18 20:52:42 +0000     2127 bytes  locale/tr/build_distance_in_words_locale/index.j\</tspan>
+<tspan x="10" y="8042">s</tspan>
+<tspan x="10" y="8058">471.  2017-04-18 20:52:42 +0000     3182 bytes  locale/tr/build_format_locale/index.js</tspan>
+<tspan x="10" y="8074">472.  2017-04-18 20:52:42 +0000      388 bytes  locale/tr/index.js</tspan>
+<tspan x="10" y="8090">473.  2017-04-18 20:52:42 +0000       38 bytes  locale/tr/package.json</tspan>
+<tspan x="10" y="8106">474.  2017-04-18 20:52:42 +0000     1847 bytes  locale/zh_cn/build_distance_in_words_locale/inde\</tspan>
+<tspan x="10" y="8122">x.js</tspan>
+<tspan x="10" y="8138">475.  2017-04-18 20:52:42 +0000     2347 bytes  locale/zh_cn/build_format_locale/index.js</tspan>
+<tspan x="10" y="8154">476.  2017-04-18 20:52:42 +0000      394 bytes  locale/zh_cn/index.js</tspan>
+<tspan x="10" y="8170">477.  2017-04-18 20:52:42 +0000       38 bytes  locale/zh_cn/package.json</tspan>
+<tspan x="10" y="8186">478.  2017-04-18 20:52:42 +0000     1847 bytes  locale/zh_tw/build_distance_in_words_locale/inde\</tspan>
+<tspan x="10" y="8202">x.js</tspan>
+<tspan x="10" y="8218">479.  2017-04-18 20:52:42 +0000     2347 bytes  locale/zh_tw/build_format_locale/index.js</tspan>
+<tspan x="10" y="8234">480.  2017-04-18 20:52:42 +0000      379 bytes  locale/zh_tw/index.js</tspan>
+<tspan x="10" y="8250">481.  2017-04-18 20:52:42 +0000       38 bytes  locale/zh_tw/package.json</tspan>
+<tspan x="10" y="8266">482.  2017-04-18 20:52:42 +0000      795 bytes  max/index.js</tspan>
+<tspan x="10" y="8282">483.  2017-04-18 20:52:42 +0000       85 bytes  max/index.js.flow</tspan>
+<tspan x="10" y="8298">484.  2017-04-18 20:52:42 +0000       35 bytes  max/package.json</tspan>
+<tspan x="10" y="8314">485.  2017-04-18 20:52:42 +0000      807 bytes  min/index.js</tspan>
+<tspan x="10" y="8330">486.  2017-04-18 20:52:42 +0000       85 bytes  min/index.js.flow</tspan>
+<tspan x="10" y="8346">487.  2017-04-18 20:52:42 +0000       35 bytes  min/package.json</tspan>
+<tspan x="10" y="8362">488.  2017-04-18 20:52:42 +0000     5449 bytes  package.json</tspan>
+<tspan x="10" y="8378">489.  2017-04-18 20:52:42 +0000     8318 bytes  parse/index.js</tspan>
+<tspan x="10" y="8394">490.  2017-04-18 20:52:42 +0000      133 bytes  parse/index.js.flow</tspan>
+<tspan x="10" y="8410">491.  2017-04-18 20:52:42 +0000       35 bytes  parse/package.json</tspan>
+<tspan x="10" y="8426">492.  2017-04-18 20:52:42 +0000      740 bytes  set_date/index.js</tspan>
+<tspan x="10" y="8442">493.  2017-04-18 20:52:42 +0000       99 bytes  set_date/index.js.flow</tspan>
+<tspan x="10" y="8458">494.  2017-04-18 20:52:42 +0000       35 bytes  set_date/package.json</tspan>
+<tspan x="10" y="8474">495.  2017-04-18 20:52:42 +0000     1316 bytes  set_day/index.js</tspan>
+<tspan x="10" y="8490">496.  2017-04-18 20:52:42 +0000      137 bytes  set_day/index.js.flow</tspan>
+<tspan x="10" y="8506">497.  2017-04-18 20:52:42 +0000       35 bytes  set_day/package.json</tspan>
+<tspan x="10" y="8522">498.  2017-04-18 20:52:42 +0000      757 bytes  set_day_of_year/index.js</tspan>
+<tspan x="10" y="8538">499.  2017-04-18 20:52:42 +0000       98 bytes  set_day_of_year/index.js.flow</tspan>
+<tspan x="10" y="8554">500.  2017-04-18 20:52:42 +0000       35 bytes  set_day_of_year/package.json</tspan>
+<tspan x="10" y="8570">501.  2017-04-18 20:52:42 +0000      674 bytes  set_hours/index.js</tspan>
+<tspan x="10" y="8586">502.  2017-04-18 20:52:42 +0000       94 bytes  set_hours/index.js.flow</tspan>
+<tspan x="10" y="8602">503.  2017-04-18 20:52:42 +0000       35 bytes  set_hours/package.json</tspan>
+<tspan x="10" y="8618">504.  2017-04-18 20:52:42 +0000      955 bytes  set_iso_day/index.js</tspan>
+<tspan x="10" y="8634">505.  2017-04-18 20:52:42 +0000       92 bytes  set_iso_day/index.js.flow</tspan>
+<tspan x="10" y="8650">506.  2017-04-18 20:52:42 +0000       35 bytes  set_iso_day/package.json</tspan>
+<tspan x="10" y="8666">507.  2017-04-18 20:52:42 +0000      908 bytes  set_iso_week/index.js</tspan>
+<tspan x="10" y="8682">508.  2017-04-18 20:52:42 +0000       96 bytes  set_iso_week/index.js.flow</tspan>
+<tspan x="10" y="8698">509.  2017-04-18 20:52:42 +0000       35 bytes  set_iso_week/package.json</tspan>
+<tspan x="10" y="8714">510.  2017-04-18 20:52:42 +0000     1298 bytes  set_iso_year/index.js</tspan>
+<tspan x="10" y="8730">511.  2017-04-18 20:52:42 +0000       96 bytes  set_iso_year/index.js.flow</tspan>
+<tspan x="10" y="8746">512.  2017-04-18 20:52:42 +0000       35 bytes  set_iso_year/package.json</tspan>
+<tspan x="10" y="8762">513.  2017-04-18 20:52:42 +0000      800 bytes  set_milliseconds/index.js</tspan>
+<tspan x="10" y="8778">514.  2017-04-18 20:52:42 +0000      101 bytes  set_milliseconds/index.js.flow</tspan>
+<tspan x="10" y="8794">515.  2017-04-18 20:52:42 +0000       35 bytes  set_milliseconds/package.json</tspan>
+<tspan x="10" y="8810">516.  2017-04-18 20:52:42 +0000      710 bytes  set_minutes/index.js</tspan>
+<tspan x="10" y="8826">517.  2017-04-18 20:52:42 +0000       96 bytes  set_minutes/index.js.flow</tspan>
+<tspan x="10" y="8842">518.  2017-04-18 20:52:42 +0000       35 bytes  set_minutes/package.json</tspan>
+<tspan x="10" y="8858">519.  2017-04-18 20:52:42 +0000     1105 bytes  set_month/index.js</tspan>
+<tspan x="10" y="8874">520.  2017-04-18 20:52:42 +0000       94 bytes  set_month/index.js.flow</tspan>
+<tspan x="10" y="8890">521.  2017-04-18 20:52:42 +0000       35 bytes  set_month/package.json</tspan>
+<tspan x="10" y="8906">522.  2017-04-18 20:52:42 +0000      847 bytes  set_quarter/index.js</tspan>
+<tspan x="10" y="8922">523.  2017-04-18 20:52:42 +0000       96 bytes  set_quarter/index.js.flow</tspan>
+<tspan x="10" y="8938">524.  2017-04-18 20:52:42 +0000       35 bytes  set_quarter/package.json</tspan>
+<tspan x="10" y="8954">525.  2017-04-18 20:52:42 +0000      710 bytes  set_seconds/index.js</tspan>
+<tspan x="10" y="8970">526.  2017-04-18 20:52:42 +0000       96 bytes  set_seconds/index.js.flow</tspan>
+<tspan x="10" y="8986">527.  2017-04-18 20:52:42 +0000       35 bytes  set_seconds/package.json</tspan>
+<tspan x="10" y="9002">528.  2017-04-18 20:52:42 +0000      653 bytes  set_year/index.js</tspan>
+<tspan x="10" y="9018">529.  2017-04-18 20:52:42 +0000       93 bytes  set_year/index.js.flow</tspan>
+<tspan x="10" y="9034">530.  2017-04-18 20:52:42 +0000       35 bytes  set_year/package.json</tspan>
+<tspan x="10" y="9050">531.  2017-04-18 20:52:42 +0000      644 bytes  start_of_day/index.js</tspan>
+<tspan x="10" y="9066">532.  2017-04-18 20:52:42 +0000       77 bytes  start_of_day/index.js.flow</tspan>
+<tspan x="10" y="9082">533.  2017-04-18 20:52:42 +0000       35 bytes  start_of_day/package.json</tspan>
+<tspan x="10" y="9098">534.  2017-04-18 20:52:42 +0000      652 bytes  start_of_hour/index.js</tspan>
+<tspan x="10" y="9114">535.  2017-04-18 20:52:42 +0000       77 bytes  start_of_hour/index.js.flow</tspan>
+<tspan x="10" y="9130">536.  2017-04-18 20:52:42 +0000       35 bytes  start_of_hour/package.json</tspan>
+<tspan x="10" y="9146">537.  2017-04-18 20:52:42 +0000      752 bytes  start_of_iso_week/index.js</tspan>
+<tspan x="10" y="9162">538.  2017-04-18 20:52:42 +0000       77 bytes  start_of_iso_week/index.js.flow</tspan>
+<tspan x="10" y="9178">539.  2017-04-18 20:52:42 +0000       35 bytes  start_of_iso_week/package.json</tspan>
+<tspan x="10" y="9194">540.  2017-04-18 20:52:42 +0000     1052 bytes  start_of_iso_year/index.js</tspan>
+<tspan x="10" y="9210">541.  2017-04-18 20:52:42 +0000       77 bytes  start_of_iso_year/index.js.flow</tspan>
+<tspan x="10" y="9226">542.  2017-04-18 20:52:42 +0000       35 bytes  start_of_iso_year/package.json</tspan>
+<tspan x="10" y="9242">543.  2017-04-18 20:52:42 +0000      674 bytes  start_of_minute/index.js</tspan>
+<tspan x="10" y="9258">544.  2017-04-18 20:52:42 +0000       77 bytes  start_of_minute/index.js.flow</tspan>
+<tspan x="10" y="9274">545.  2017-04-18 20:52:42 +0000       35 bytes  start_of_minute/package.json</tspan>
+<tspan x="10" y="9290">546.  2017-04-18 20:52:42 +0000      678 bytes  start_of_month/index.js</tspan>
+<tspan x="10" y="9306">547.  2017-04-18 20:52:42 +0000       77 bytes  start_of_month/index.js.flow</tspan>
+<tspan x="10" y="9322">548.  2017-04-18 20:52:42 +0000       35 bytes  start_of_month/package.json</tspan>
+<tspan x="10" y="9338">549.  2017-04-18 20:52:42 +0000      795 bytes  start_of_quarter/index.js</tspan>
+<tspan x="10" y="9354">550.  2017-04-18 20:52:42 +0000       77 bytes  start_of_quarter/index.js.flow</tspan>
+<tspan x="10" y="9370">551.  2017-04-18 20:52:42 +0000       35 bytes  start_of_quarter/package.json</tspan>
+<tspan x="10" y="9386">552.  2017-04-18 20:52:42 +0000      680 bytes  start_of_second/index.js</tspan>
+<tspan x="10" y="9402">553.  2017-04-18 20:52:42 +0000       77 bytes  start_of_second/index.js.flow</tspan>
+<tspan x="10" y="9418">554.  2017-04-18 20:52:42 +0000       35 bytes  start_of_second/package.json</tspan>
+<tspan x="10" y="9434">555.  2017-04-18 20:52:42 +0000      420 bytes  start_of_today/index.js</tspan>
+<tspan x="10" y="9450">556.  2017-04-18 20:52:42 +0000       45 bytes  start_of_today/index.js.flow</tspan>
+<tspan x="10" y="9466">557.  2017-04-18 20:52:42 +0000       35 bytes  start_of_today/package.json</tspan>
+<tspan x="10" y="9482">558.  2017-04-18 20:52:42 +0000      570 bytes  start_of_tomorrow/index.js</tspan>
+<tspan x="10" y="9498">559.  2017-04-18 20:52:42 +0000       45 bytes  start_of_tomorrow/index.js.flow</tspan>
+<tspan x="10" y="9514">560.  2017-04-18 20:52:42 +0000       35 bytes  start_of_tomorrow/package.json</tspan>
+<tspan x="10" y="9530">561.  2017-04-18 20:52:42 +0000     1246 bytes  start_of_week/index.js</tspan>
+<tspan x="10" y="9546">562.  2017-04-18 20:52:42 +0000      122 bytes  start_of_week/index.js.flow</tspan>
+<tspan x="10" y="9562">563.  2017-04-18 20:52:42 +0000       35 bytes  start_of_week/package.json</tspan>
+<tspan x="10" y="9578">564.  2017-04-18 20:52:42 +0000      733 bytes  start_of_year/index.js</tspan>
+<tspan x="10" y="9594">565.  2017-04-18 20:52:42 +0000       77 bytes  start_of_year/index.js.flow</tspan>
+<tspan x="10" y="9610">566.  2017-04-18 20:52:42 +0000       35 bytes  start_of_year/package.json</tspan>
+<tspan x="10" y="9626">567.  2017-04-18 20:52:42 +0000      576 bytes  start_of_yesterday/index.js</tspan>
+<tspan x="10" y="9642">568.  2017-04-18 20:52:42 +0000       45 bytes  start_of_yesterday/index.js.flow</tspan>
+<tspan x="10" y="9658">569.  2017-04-18 20:52:42 +0000       35 bytes  start_of_yesterday/package.json</tspan>
+<tspan x="10" y="9674">570.  2017-04-18 20:52:42 +0000      705 bytes  sub_days/index.js</tspan>
+<tspan x="10" y="9690">571.  2017-04-18 20:52:42 +0000       95 bytes  sub_days/index.js.flow</tspan>
+<tspan x="10" y="9706">572.  2017-04-18 20:52:42 +0000       35 bytes  sub_days/package.json</tspan>
+<tspan x="10" y="9722">573.  2017-04-18 20:52:42 +0000      727 bytes  sub_hours/index.js</tspan>
+<tspan x="10" y="9738">574.  2017-04-18 20:52:42 +0000       95 bytes  sub_hours/index.js.flow</tspan>
+<tspan x="10" y="9754">575.  2017-04-18 20:52:42 +0000       35 bytes  sub_hours/package.json</tspan>
+<tspan x="10" y="9770">576.  2017-04-18 20:52:42 +0000      922 bytes  sub_iso_years/index.js</tspan>
+<tspan x="10" y="9786">577.  2017-04-18 20:52:42 +0000       95 bytes  sub_iso_years/index.js.flow</tspan>
+<tspan x="10" y="9802">578.  2017-04-18 20:52:42 +0000       35 bytes  sub_iso_years/package.json</tspan>
+<tspan x="10" y="9818">579.  2017-04-18 20:52:42 +0000      832 bytes  sub_milliseconds/index.js</tspan>
+<tspan x="10" y="9834">580.  2017-04-18 20:52:42 +0000       95 bytes  sub_milliseconds/index.js.flow</tspan>
+<tspan x="10" y="9850">581.  2017-04-18 20:52:42 +0000       35 bytes  sub_milliseconds/package.json</tspan>
+<tspan x="10" y="9866">582.  2017-04-18 20:52:42 +0000      754 bytes  sub_minutes/index.js</tspan>
+<tspan x="10" y="9882">583.  2017-04-18 20:52:42 +0000       95 bytes  sub_minutes/index.js.flow</tspan>
+<tspan x="10" y="9898">584.  2017-04-18 20:52:42 +0000       35 bytes  sub_minutes/package.json</tspan>
+<tspan x="10" y="9914">585.  2017-04-18 20:52:42 +0000      726 bytes  sub_months/index.js</tspan>
+<tspan x="10" y="9930">586.  2017-04-18 20:52:42 +0000       95 bytes  sub_months/index.js.flow</tspan>
+<tspan x="10" y="9946">587.  2017-04-18 20:52:42 +0000       35 bytes  sub_months/package.json</tspan>
+<tspan x="10" y="9962">588.  2017-04-18 20:52:42 +0000      761 bytes  sub_quarters/index.js</tspan>
+<tspan x="10" y="9978">589.  2017-04-18 20:52:42 +0000       95 bytes  sub_quarters/index.js.flow</tspan>
+<tspan x="10" y="9994">590.  2017-04-18 20:52:42 +0000       35 bytes  sub_quarters/package.json</tspan>
+<tspan x="10" y="10010">591.  2017-04-18 20:52:42 +0000      758 bytes  sub_seconds/index.js</tspan>
+<tspan x="10" y="10026">592.  2017-04-18 20:52:42 +0000       95 bytes  sub_seconds/index.js.flow</tspan>
+<tspan x="10" y="10042">593.  2017-04-18 20:52:42 +0000       35 bytes  sub_seconds/package.json</tspan>
+<tspan x="10" y="10058">594.  2017-04-18 20:52:42 +0000      715 bytes  sub_weeks/index.js</tspan>
+<tspan x="10" y="10074">595.  2017-04-18 20:52:42 +0000       95 bytes  sub_weeks/index.js.flow</tspan>
+<tspan x="10" y="10090">596.  2017-04-18 20:52:42 +0000       35 bytes  sub_weeks/package.json</tspan>
+<tspan x="10" y="10106">597.  2017-04-18 20:52:42 +0000      715 bytes  sub_years/index.js</tspan>
+<tspan x="10" y="10122">598.  2017-04-18 20:52:42 +0000       95 bytes  sub_years/index.js.flow</tspan>
+<tspan x="10" y="10138">599.  2017-04-18 20:52:42 +0000       35 bytes  sub_years/package.json</tspan>
+<tspan x="10" y="10154">600.  2017-04-18 20:52:42 +0000    75940 bytes  typings.d.ts</tspan>
 </text>
 </svg>
